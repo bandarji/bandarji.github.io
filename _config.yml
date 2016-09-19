@@ -1,0 +1,11 @@
+# Site settings
+title: Sean Jain Ellis aka bandarji
+description: > # this means to ignore newlines until "baseurl:"
+  Howdy! Welcome to Sean's personal pages on GitHub.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://bandarji.github.io" # the base hostname & protocol for your site
+twitter_username: bandarji
+github_username:  bandarji
+
+# Build settings
+markdown: kramdown
