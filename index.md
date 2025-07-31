@@ -8,6 +8,11 @@ tags: home
 Hello, world! I sometimes write software, mostly in Go or Python. I also
 try to play guitar, emphasis on "try".
 
+## Blogs
+
+- **[Coding Notes](/coding/)** - Coding thoughts
+- **[Hiatus](/hiatus/)** - Interesting things from my year off
+
 ## Employment History
 
 | Company | Years | Role |
