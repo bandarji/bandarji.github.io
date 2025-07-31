@@ -11,3 +11,27 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# Collections for separate blogs
+collections:
+  coding:
+    output: true
+    permalink: /coding/:title/
+  hiatus:
+    output: true
+    permalink: /hiatus/:title/
+
+# Defaults for blog posts
+defaults:
+  - scope:
+      path: "_coding"
+      type: "coding"
+    values:
+      layout: "post"
+      author: "Sean Jain Ellis"
+  - scope:
+      path: "_hiatus"
+      type: "hiatus"
+    values:
+      layout: "post"
+      author: "Sean Jain Ellis"
