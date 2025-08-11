@@ -3,10 +3,12 @@ layout: default
 tags: home
 ---
 
+<div class="home-content">
 # Sean Jain Ellis
 
 Hello, world! I sometimes write software, mostly in Go or Python. I also
 try to play guitar, emphasis on "try".
+</div>
 
 ## Blogs
 

@@ -1,7 +1,12 @@
-remote_theme: pages-themes/hacker@v0.2.0
+# Site configuration
+title: "Sean Jain Ellis"
+subtitle: "Developer & Explorer"
+description: "Personal website and blog covering coding, travel, and life adventures."
+github: "https://github.com/bandarji"
+
+# Theme configuration (using custom theme)
 plugins:
 - jekyll-remote-theme
-# theme: jekyll-theme-minimal
 lsi: false
 safe: true
 incremental: false
