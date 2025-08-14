@@ -26,6 +26,7 @@ body {
   padding: 0;
   font-size: 14px;
   text-shadow: 0 0 5px var(--terminal-green);
+  min-height: 100vh;
 }
 
 /* Header */
@@ -36,6 +37,7 @@ body {
   text-align: center;
   border-bottom: 2px solid var(--terminal-green);
   border-top: 2px solid var(--terminal-green);
+  animation: terminal-startup 0.5s ease-out;
 }
 
 .site-title {
@@ -82,6 +84,7 @@ body {
   max-width: 80ch;
   margin: 0 auto;
   padding: 2rem 1rem;
+  min-height: calc(100vh - 200px);
 }
 
 /* Posts */
@@ -175,10 +178,16 @@ body {
   margin-bottom: 0.5rem;
 }
 
+.post-content ul li {
+  list-style: none;
+}
+
 .post-content ul li::before {
   content: "> ";
   color: var(--terminal-green-bright);
   font-weight: bold;
+  margin-left: -1.5rem;
+  margin-right: 0.5rem;
 }
 
 .post-content ol {
@@ -189,10 +198,16 @@ body {
   counter-increment: terminal-counter;
 }
 
+.post-content ol li {
+  list-style: none;
+}
+
 .post-content ol li::before {
   content: counter(terminal-counter) ". ";
   color: var(--terminal-green-bright);
   font-weight: bold;
+  margin-left: -1.5rem;
+  margin-right: 0.5rem;
 }
 
 .post-content a {
@@ -340,8 +355,8 @@ body {
   text-shadow: none;
 }
 
-/* Terminal cursor effect */
-.post-content::after {
+/* Terminal cursor effect - only on home page */
+.home-content::after {
   content: "_";
   color: var(--terminal-cursor);
   animation: blink 1s infinite;
@@ -354,9 +369,6 @@ body {
 }
 
 /* Terminal startup effect */
-.site-header {
-  animation: terminal-startup 0.5s ease-out;
-}
 
 @keyframes terminal-startup {
   0% {
