@@ -77,7 +77,7 @@ body {
 
 .site-nav a:hover {
   color: var(--terminal-green-bright);
-  text-shadow: 0 0 3px var(--terminal-green-bright);
+  text-shadow: none;
 }
 
 /* Main content */
@@ -213,7 +213,7 @@ body {
 .post-content a {
   color: var(--terminal-green-bright);
   text-decoration: underline;
-  text-decoration-color: var(--terminal-green);
+  text-decoration-color: var(--terminal-green-bright);
   text-shadow: none;
   font-weight: bold;
 }
@@ -221,7 +221,7 @@ body {
 .post-content a:hover {
   color: var(--terminal-green);
   text-decoration-color: var(--terminal-green);
-  text-shadow: 0 0 2px var(--terminal-green);
+  text-shadow: none;
 }
 
 .post-content strong {
@@ -289,7 +289,7 @@ body {
 
 .post-navigation a:hover {
   color: var(--terminal-green-bright);
-  text-shadow: 0 0 3px var(--terminal-green-bright);
+  text-shadow: none;
 }
 
 /* Responsive design */
