@@ -6,8 +6,10 @@ tags: home
 <div class="home-content">
 # Sean Jain Ellis
 
-Hello, world! I sometimes write software, mostly in Go or Python. I also
-try to play guitar, emphasis on "try".
+Hello, world!
+
+I write software, but I started a hiatus in July 2025 to travel the
+world. This site will contain random information.
 </div>
 
 ## Blogs
