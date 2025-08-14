@@ -1,16 +1,16 @@
-/* Minimalist Green Theme */
+/* Terminal Green Theme */
 
 :root {
-  --primary-green: #2d5a27;
-  --secondary-green: #4a7c59;
-  --accent-green: #6b8e23;
-  --light-green: #e8f5e8;
-  --dark-green: #1a3d1a;
-  --text-dark: #2c3e50;
-  --text-light: #7f8c8d;
-  --background: #ffffff;
-  --background-alt: #f8f9fa;
-  --border: #e9ecef;
+  --terminal-green: #00ff00;
+  --terminal-green-dim: #00cc00;
+  --terminal-green-bright: #00ff66;
+  --terminal-green-dark: #006600;
+  --terminal-black: #000000;
+  --terminal-dark-gray: #1a1a1a;
+  --terminal-gray: #333333;
+  --terminal-light-gray: #666666;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #00ff00;
 }
 
 * {
@@ -18,85 +18,96 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-  line-height: 1.6;
-  color: var(--text-dark);
-  background-color: var(--background);
+  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+  line-height: 1.4;
+  color: var(--terminal-green);
+  background-color: var(--terminal-black);
   margin: 0;
   padding: 0;
+  font-size: 14px;
+  text-shadow: 0 0 5px var(--terminal-green);
 }
 
 /* Header */
 .site-header {
-  background-color: var(--primary-green);
-  color: white;
-  padding: 2rem 0;
+  background-color: var(--terminal-black);
+  color: var(--terminal-green);
+  padding: 1rem 0;
   text-align: center;
-  border-bottom: 3px solid var(--accent-green);
+  border-bottom: 2px solid var(--terminal-green);
+  border-top: 2px solid var(--terminal-green);
 }
 
 .site-title {
-  font-size: 2.5rem;
-  font-weight: 300;
+  font-size: 1.8rem;
+  font-weight: bold;
   margin: 0;
-  letter-spacing: -0.5px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 .site-subtitle {
-  font-size: 1.1rem;
-  font-weight: 300;
+  font-size: 0.9rem;
+  font-weight: normal;
   margin: 0.5rem 0 0 0;
-  opacity: 0.9;
+  color: var(--terminal-green-dim);
+  text-transform: uppercase;
 }
 
 /* Navigation */
 .site-nav {
-  background-color: var(--secondary-green);
-  padding: 1rem 0;
+  background-color: var(--terminal-black);
+  padding: 0.5rem 0;
   text-align: center;
+  border-bottom: 1px solid var(--terminal-green);
 }
 
 .site-nav a {
-  color: white;
+  color: var(--terminal-green);
   text-decoration: none;
   margin: 0 1rem;
-  font-weight: 500;
-  transition: color 0.2s ease;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
 }
 
 .site-nav a:hover {
-  color: var(--light-green);
+  color: var(--terminal-green-bright);
+  text-shadow: 0 0 8px var(--terminal-green-bright);
 }
 
 /* Main content */
 .site-content {
-  max-width: 800px;
+  max-width: 80ch;
   margin: 0 auto;
-  padding: 3rem 2rem;
+  padding: 2rem 1rem;
 }
 
 /* Posts */
 .post {
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 
 .post-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 2px solid var(--border);
+  border-bottom: 1px solid var(--terminal-green);
 }
 
 .post-title {
-  font-size: 2.2rem;
-  font-weight: 400;
-  color: var(--primary-green);
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: var(--terminal-green-bright);
   margin: 0 0 0.5rem 0;
   line-height: 1.2;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .post-meta {
-  color: var(--text-light);
-  font-size: 0.9rem;
+  color: var(--terminal-green-dim);
+  font-size: 0.8rem;
   margin: 0;
 }
 
