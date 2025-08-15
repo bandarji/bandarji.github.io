@@ -16,11 +16,13 @@ posts about both of those things, along with other random stuff.
 
 - **[Coding Notes](/coding/)** - Coding thoughts
 - **[Hiatus](/hiatus/)** - Interesting things from my year off
-- **[Work](/work/)** - My professional experience
 
+## Pages
 
+- **[About](about.md)** - About Me
+- **[Work](work.md)** - My professional experience
 
-## Links
+## External Links
 
 - [Personal Site](https://bandarji.com/) -- A bit about me, minus the blog
 - [LinkedIn](https://linkedin.com/in/bandarji) -- Connect professionally
