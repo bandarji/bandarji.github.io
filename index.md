@@ -8,8 +8,8 @@ tags: home
 
 Hello, world!
 
-I write software, but I started a hiatus in July 2025 to travel the
-world. This site will contain random information.
+For work, I write software. For fun, I like to travel. This site contains
+posts about both of those things, along with other random stuff.
 </div>
 
 ## Blogs
@@ -17,31 +17,59 @@ world. This site will contain random information.
 - **[Coding Notes](/coding/)** - Coding thoughts
 - **[Hiatus](/hiatus/)** - Interesting things from my year off
 
-## Employment History
+## Work Experience
 
-| Company | Years | Role |
-| :--- | :--- | :--- |
-| [Upstart](https://upstart.com/) | 2023-now | Principal SRE, Core Reliability |
-| Twitter | 2020-2023 | Staff SRE, Storage Technical Lead |
-| | 2018-2020 | Engineering Manager, Storage SRE |
-| [Box](https://box.com/) | 2017-2018 | Staff SRE, Edge Performance |
-| [DreamWorks Animation](https://www.dreamworks.com/) | 2015-2017 | Engineering Manager, Nova SaaS Platform |
-| | 2011-2015 | Principal Engineer |
-| | 2008-2011 | Engineering Manager, DreamWorks Dedicated Unit (India) |
-| | 2007-2008 | Senior Network Engineer |
-| MobiTV | 2005-2007 | Engineering Manager, Systems and Networking |
-| First Victoria National Bank | 2000-2005 | System Architect |
-| Information Alliance | 1995-2000 | Engineering Manager, UNIX Software |
-| Bit Solutions | 1992-1995 | Software Developer |
+My professional journey spans over three decades. The initial decade granted
+me opportunities to develop and hone systems, networking and coding skills.
+In those early years, I assembled Internet Service Providers, launched Linux
+ports of UNIX software and implemented business IP networking solutions.
 
-## Other Work History
+In 2000, I established Aloe Software Group, a company that provided online
+student and financial management for Texas public schools. That same year,
+I joined First Victoria National Bank, to overhaul their network in
+preparation for expansion and interoperability, as their grew through
+acquisition.
 
-| Company | Years | Role |
-| :--- | :--- | :--- |
-| [Sunrise Hale](https://sunrisehale.com/) | 2022-now | Owner / Short-term Rental |
-| [Kona House of Palms](https://konahop.com/) | 2018-now | Owner / Short-term Rental |
-| [Aloe Software Group](https://ondatasuite.com/) | 2000-2005 | Co-founder |
+I left Texas in 2005, joining San Francisco Bay Area startup MobiTV. As the
+Systems and Networking Engineering Manager, I organized efforts to maintain
+availability during times of rapid customer and offering expansions.
+
+DreamWorks Animation offered me a position in 2007, so I moved to Los
+Angeles, to join the AnimTech group as a Senior Network Engineer. In 2008,
+I relocated to Bengaluru, India, where I hired and trained support staff at
+a new animation studio, as an Engineering Manager. After returning stateside,
+DreamWorks promoted me to Principal Engineer and had me focus on future
+rendering techologies. In 2015, I managed the team responsible for
+containerizing film animation software, for a live 3D rendering SaaS. That
+startup shuttered in 2017, when Universal purchased DreamWorks.
+
+I continued my career progression at [Box](https://box.com/) as a Staff Site
+Reliability Engineer on the Edge Performance team. There, I developed a
+distributed firewall solution and overhauled service proxy implementations.
+
+In 2018, Twitter hired me to manage storage engineering teams. After a
+couple of years, I transitioned to an individual contributor role. As a Staff
+Site Reliability Engineer, I participated in several high-impact storage
+projects. Due to the turmoil and uncertainty Twitter presented employees
+after Musk bought the company, I left in 2023.
+
+That same year, I joined Upstart as the Principal Site Reliability Engineer.
+There, I revitalized the Postmortem Bar Raisers program and revamped incident
+management processes and procedures. I automated metrics collection and
+representation for leadership status reports.
+
+In 2025, I stepped away from work, taking a one-year hiatus to travel the
+world.
+
+## Links
+
+- [Personal Site](https://bandarji.com/) -- A bit about me, minus the blog
+- [LinkedIn](https://linkedin.com/in/bandarji) -- Connect professionally
+- [Github](https://github.com/bandarji) -- Some software contributions
+- [Instagram](https://instagram.com/bandarji) -- Pictures, pictures, pictures
+- [Kona House of Palms](https://konahop.com/) -- My Hawaii rental property
+- [Sunrise Hale](https://sunrisehale.com/) -- My other Hawaii property (condo)
 
 ## Additional Information
 
-You have reached the end of the Internet.
+You have reached the end of this page and possibly the entire Internet.
