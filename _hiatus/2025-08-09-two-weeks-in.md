@@ -50,6 +50,8 @@ My garage now looks more organized than my JIRA issues. I suppose that could
 represent something positive or negative, so let me try again. My organized
 my garage better than the result from `sorted()`.
 
+![Organized garage shelves](https://www.bandarji.com/images/sjeblog-garageshelves.jpg)
+
 With [Rubbermaid FastTrack](https://www.rubbermaid.com/fasttrackgarage.html),
 I put up adjustable shelves, hooks and baskets. Now, I have a place for
 everything and every thing in its place.
@@ -88,6 +90,8 @@ pulling them from the grill, I brushed on some sauce. I take a good amount of
 yellow mustard, some vinegar and seasonings, to make a great sauce.
 
 Choped each in half and plated them up pretty for serving.
+
+![Prepared for grilling](https://www.bandarji.com/images/sjeblog-shotgunshelves.jpg)
 
 ## Quickbooks
 
