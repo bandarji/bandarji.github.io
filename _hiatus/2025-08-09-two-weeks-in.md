@@ -91,7 +91,7 @@ yellow mustard, some vinegar and seasonings, to make a great sauce.
 
 Choped each in half and plated them up pretty for serving.
 
-![Prepared for grilling](https://www.bandarji.com/images/sjeblog-shotgunshelves.jpg)
+![Prepared for grilling](https://www.bandarji.com/images/sjeblog-shotgunshells.jpg)
 
 ## Quickbooks
 
