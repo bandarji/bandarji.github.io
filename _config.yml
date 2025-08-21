@@ -25,6 +25,9 @@ collections:
   hiatus:
     output: true
     permalink: /hiatus/:title/
+  travel:
+    output: true
+    permalink: /travel/:title/
 
 # Defaults for blog posts
 defaults:
@@ -37,6 +40,12 @@ defaults:
   - scope:
       path: "_hiatus"
       type: "hiatus"
+    values:
+      layout: "post"
+      author: "Sean Jain Ellis"
+  - scope:
+      path: "_travel"
+      type: "travel"
     values:
       layout: "post"
       author: "Sean Jain Ellis"

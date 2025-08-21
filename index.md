@@ -16,6 +16,7 @@ posts about both of those things, along with other random stuff.
 
 - **[Coding Notes](/coding/)** - Coding thoughts
 - **[Hiatus](/hiatus/)** - Interesting things from my year off
+- **[Travel](/travel/)** - Going places
 
 ## Pages
 
