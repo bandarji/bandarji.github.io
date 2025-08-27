@@ -41,7 +41,6 @@ body {
   margin: 0;
   padding: 0;
   font-size: 14px;
-  text-shadow: 0 0 5px var(--terminal-green);
   min-height: 100vh;
 }
 
@@ -98,7 +97,7 @@ body {
 
 /* Main content */
 .site-content {
-  max-width: 80ch;
+  max-width: 150ch;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -379,6 +378,28 @@ body {
   color: var(--terminal-black) !important;
   text-decoration: none;
   text-shadow: none !important;
+}
+
+/* Category pages */
+.category-page h1 {
+  color: var(--terminal-green-bright);
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid var(--terminal-green);
+  padding-bottom: 1rem;
+}
+
+.category-page .post-preview {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--terminal-gray);
+}
+
+.category-page .post-preview:last-child {
+  border-bottom: none;
 }
 
 /* Terminal cursor effect - only on home page */
