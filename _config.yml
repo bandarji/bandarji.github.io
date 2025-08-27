@@ -4,6 +4,9 @@ subtitle: "Software Development and Life Adventures"
 description: "Personal website and blog covering computing, travel and other life adventures."
 github: "https://github.com/bandarji"
 
+# Category pages
+permalink: /categories/:category/
+
 # Theme configuration (using custom theme)
 plugins:
 - jekyll-remote-theme
