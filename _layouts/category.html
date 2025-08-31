@@ -6,11 +6,9 @@ layout: default
   <h1>Posts in category: {{ page.category }}</h1>
   
   {% assign category_posts = site.posts | where_exp: "post", "post.categories contains page.category" %}
-  {% assign coding_posts = site.coding | where_exp: "post", "post.categories contains page.category" %}
-  {% assign hiatus_posts = site.hiatus | where_exp: "post", "post.categories contains page.category" %}
-  {% assign travel_posts = site.travel | where_exp: "post", "post.categories contains page.category" %}
+  {% assign blog_posts = site.blog | where_exp: "post", "post.categories contains page.category" %}
   
-  {% assign all_posts = category_posts | concat: coding_posts | concat: hiatus_posts | concat: travel_posts | sort: 'date' | reverse %}
+  {% assign all_posts = category_posts | concat: blog_posts | sort: 'date' | reverse %}
   
   {% if all_posts.size > 0 %}
     {% for post in all_posts %}

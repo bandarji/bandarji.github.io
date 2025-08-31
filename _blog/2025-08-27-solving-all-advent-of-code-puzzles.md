@@ -2,7 +2,7 @@
 layout: post
 title: "Advent of Code 2015-2024: A Go and Rust Learning Journey"
 date: 2025-08-27
-categories: [coding, algorithms, go, rust, advent-of-code]
+categories: [coding]
 excerpt: "I intend to solve all Advent of Code puzzles from 2015 to 2024 in Go and Rust."
 ---
 

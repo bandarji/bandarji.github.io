@@ -2,7 +2,7 @@
 layout: post
 title: "Par For The Course"
 date: 2025-08-19
-categories: [hiatus, golf]
+categories: [hiatus]
 excerpt: "Par Three: Two-putt To Victory"
 ---
 

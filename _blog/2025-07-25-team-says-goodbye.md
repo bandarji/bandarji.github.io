@@ -2,7 +2,7 @@
 layout: post
 title: "Team Says Goodbye"
 date: 2025-07-25
-categories: [hiatus, work, records, punk-rock]
+categories: [hiatus, music]
 excerpt: "Last day at Upstart, team presented AI-generated fake album covers to me."
 ---
 

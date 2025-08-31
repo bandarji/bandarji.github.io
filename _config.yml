@@ -20,35 +20,17 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
-# Collections for separate blogs
+# Collections for blog
 collections:
-  coding:
+  blog:
     output: true
-    permalink: /coding/:title/
-  hiatus:
-    output: true
-    permalink: /hiatus/:title/
-  travel:
-    output: true
-    permalink: /travel/:title/
+    permalink: /blog/:title/
 
 # Defaults for blog posts
 defaults:
   - scope:
-      path: "_coding"
-      type: "coding"
-    values:
-      layout: "post"
-      author: "Sean Jain Ellis"
-  - scope:
-      path: "_hiatus"
-      type: "hiatus"
-    values:
-      layout: "post"
-      author: "Sean Jain Ellis"
-  - scope:
-      path: "_travel"
-      type: "travel"
+      path: "_blog"
+      type: "blog"
     values:
       layout: "post"
       author: "Sean Jain Ellis"

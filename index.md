@@ -12,11 +12,9 @@ For work, I write software. For fun, I like to travel. This site contains
 posts about both of those things, along with other random stuff.
 </div>
 
-## Blogs
+## Blog
 
-- **[Coding Notes](/coding/)** - Coding thoughts
-- **[Hiatus](/hiatus/)** - Interesting things from my year off
-- **[Travel](/travel/)** - Going places
+- **[Blog](/blog/)** - Thoughts, adventures, and discoveries
 
 ## Pages
 
