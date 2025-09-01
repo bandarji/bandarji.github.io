@@ -39,8 +39,8 @@ distributed firewall solution and overhauled service proxy implementations.
 In 2018, [Twitter](https://twitter.com/) hired me to manage storage engineering
 teams. After a couple of years, I transitioned to an individual contributor
 role. As a Staff Site Reliability Engineer, I participated in several
-high-impact storage projects. Due to the turmoil and uncertainty Twitter
-presented employees after Musk bought the company, I left in 2023.
+high-impact storage projects. Due to the turmoil and uncertainty at Twitter
+after Musk bought the company, I left in 2023.
 
 That same year, I joined [Upstart](https://www.upstart.com/) as a Principal
 Site Reliability Engineer. There, I revitalized the Postmortem Bar Raisers
@@ -49,4 +49,4 @@ automated metrics collection and representation for leadership status
 reports.
 
 In 2025, I stepped away from work, taking a one-year hiatus to travel the
-world. [Follow along](https://bandarji.github.io/hiatus/).
+world. [Follow along](https://bandarji.github.io/categories/hiatus/).
