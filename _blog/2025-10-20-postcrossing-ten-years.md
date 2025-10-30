@@ -14,8 +14,8 @@ have traded postcards through them for ten years.
 
 ## Some Postcrossing Statistics
 
-**Sent**: 189
-**Received**: 191
-**Top Destination Countries**: Germany (35), Russia (19), China (14)
-**Top Source Countries**: Germany (28), Taiwan (24), Russia (23)
-**Longest Travel Time**: 84 days, to China
+* **Sent**: 189
+* **Received**: 191
+* **Top Destination Countries**: Germany (35), Russia (19), China (14)
+* **Top Source Countries**: Germany (28), Taiwan (24), Russia (23)
+* **Longest Travel Time**: 84 days, to China
