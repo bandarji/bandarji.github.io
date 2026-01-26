@@ -124,7 +124,8 @@ staff got together for a photo.
 
 I picked up a few words.
 
-|| Word || Translation ||
+| Word | Translation |
+| --- | --- |
 | salibonani | hello |
 | siyabonga | thank you |
 | tamboca casa | thank you very much |
