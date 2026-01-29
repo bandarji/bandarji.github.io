@@ -49,3 +49,5 @@ truly has Cape Point beat by more than thirty miles. Still, the point has
 nice walking trails and two lighthouses to visit.
 
 ![Cape Point](https://www.bandarji.com/images/sjeblog-southafrica-09-capepoint.jpeg)
+
+![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

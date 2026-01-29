@@ -100,3 +100,5 @@ which helps at tax time. Over the past couple of weeks, I have decided to
 finally learn Quickbooks. I still have much to learn, but with some effort
 I should have enough online for a bookkeeper or CPA to review business
 finances.
+
+![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

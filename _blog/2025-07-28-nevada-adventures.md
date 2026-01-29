@@ -14,3 +14,5 @@ want to explore the landscapes and history of Nevada. Stay tuned!
 For now, I *really* want to visit a country *inside* Nevada's borders,
 [The Republic of Molossia](https://www.molossia.org/). I also want to catch
 a Reno Aces baseball game, before the season ends.
+
+![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

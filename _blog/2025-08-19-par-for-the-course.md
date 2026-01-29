@@ -14,3 +14,5 @@ within six or so feet from the pin. Well, it _still_ took two putts to sink
 the ball.
 
 ![Hit the ball close to the pin](https://www.bandarji.com/images/sjeblog-closetothepin.jpg)
+
+![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)
