@@ -64,5 +64,3 @@ opportunities have surfaced for me to expand my know-how.
 
 [Blog posts](https://bandarji.github.io/coding/) will detail my journey. I have
 a [Github repository](https://github.com/bandarji/aoc) to house all solutions.
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

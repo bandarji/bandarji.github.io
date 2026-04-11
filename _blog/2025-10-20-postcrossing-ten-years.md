@@ -19,5 +19,3 @@ have traded postcards through them for ten years.
 * **Top Destination Countries**: Germany (35), Russia (19), China (14)
 * **Top Source Countries**: Germany (28), Taiwan (24), Russia (23)
 * **Longest Travel Time**: 84 days, to China
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

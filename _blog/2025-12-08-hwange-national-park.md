@@ -131,5 +131,3 @@ I picked up a few words.
 | tamboca casa | thank you very much |
 | siyaphila | we are fine |
 | zim zim | cheers! |
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

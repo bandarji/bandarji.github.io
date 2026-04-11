@@ -35,5 +35,3 @@ Established in **1692**, this place knows a thing or two because it's seen a
 thing or two. Wait, wrong industry. This place knows how to make wine.
 
 ![Neethlingshof](https://www.bandarji.com/images/sjeblog-southafrica-06-neethlingshof.jpeg)
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)
