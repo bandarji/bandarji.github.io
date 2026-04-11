@@ -50,5 +50,3 @@ wrenches into things). Regardless, AI came up with something interesting. It
 got the Hawaiian shirt in there, as well.
 
 ![Hard Sweat Bootleg](https://www.bandarji.com/images/sjeblog-albumart-mash.jpg)
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)

@@ -83,5 +83,3 @@ func permute(sequence []string, k int, response *[][]string) {
 A quick-glance test: the value in the output should be the factorial amount
 of the length of the sequence. So, a slice of three strings would return six
 permutations. A slice of five, 120.
-
-![](https://komarev.com/ghpvc/?username=bandarji&label=VIEWS)
