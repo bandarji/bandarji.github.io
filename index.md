@@ -4,13 +4,15 @@ tags: home
 ---
 
 <div class="home-content">
-# Sean Jain Ellis
-
 Hello, world!
+</div>
+
+## Sean Jain Ellis
+
+AKA बंदरजी, ਬਾਂਦਰਜੀ, ಕೋತಿಅವರೇ, お猿さん, Мистер Обезьян and 猴子先生
 
 For work, I write software. For fun, I like to travel. This site contains
 posts about both of those things, along with other random stuff.
-</div>
 
 ## Blog
 
