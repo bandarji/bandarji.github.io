@@ -15,23 +15,23 @@ original art, where available.
 
 # Punk Album Cover Parodies
 
-![Sean's War album cover](https://www.bandarji.com/images/sjeblog-albumart-mywar.jpg)
+![Sean's War album cover][mywar]
 
-[Original My War album cover](https://en.wikipedia.org/wiki/My_War#/media/File:Black_Flag_-_My_War_cover.jpg)
+[Original My War album cover][mywarorig]
 
-![Sean Skankin](https://www.bandarji.com/images/sjeblog-albumart-cjerks.jpg)
+![Sean Skankin][cjerks]
 
-[Original Circle Jerks album cover](https://www.google.com/search?q=skankin+man+circle+jerks)
+[Original Circle Jerks album cover][cjerksorig]
 
-![Let Them Eat Code](https://www.bandarji.com/images/sjeblog-albumart-jellybeans.jpg)
+![Let Them Eat Code][jellybeans]
 
-[Original Let Them Eat Jellybeans album cover](https://en.wikipedia.org/wiki/Let_Them_Eat_Jellybeans!#/media/File:Let_them_eat_jellybeans.jpg)
+[Original Let Them Eat Jellybeans album cover][jellybeansorig]
 
 # Non-Punk Album Cover Parody
 
-![Dark Side of Sean](https://www.bandarji.com/images/sjeblog-albumart-sideofthemoon.jpg)
+![Dark Side of Sean][sideofthemoon]
 
-[Original Pink Floyd album cover](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon#/media/File:The_Dark_Side_Of_The_Moon.jpg)
+[Original Pink Floyd album cover][floydorig]
 
 # Not an Album Cover: World Traveler
 
@@ -40,7 +40,7 @@ Island. Here, an image of me including a globe in the background, on fire due
 to the sunset or volcanic activity. It remains unclear which, but I like this
 one.
 
-![World on Fire](https://www.bandarji.com/images/sjeblog-albumart-worldtraveler.jpg)
+![World on Fire][worldtraveler]
 
 # Not an Album Cover: Unclassifiable
 
@@ -49,4 +49,15 @@ use a wrench on a network (do not believe rumors of me throwing monkey
 wrenches into things). Regardless, AI came up with something interesting. It
 got the Hawaiian shirt in there, as well.
 
-![Hard Sweat Bootleg](https://www.bandarji.com/images/sjeblog-albumart-mash.jpg)
+![Hard Sweat Bootleg][mash]
+
+[mywar]: https://www.bandarji.com/images/sjeblog-albumart-mywar.jpg
+[mywarorig]: https://en.wikipedia.org/wiki/My_War#/media/File:Black_Flag_-_My_War_cover.jpg
+[cjerks]: https://www.bandarji.com/images/sjeblog-albumart-cjerks.jpg
+[cjerksorig]: https://www.google.com/search?q=skankin+man+circle+jerks
+[jellybeans]: https://www.bandarji.com/images/sjeblog-albumart-jellybeans.jpg
+[jellybeansorig]: https://en.wikipedia.org/wiki/Let_Them_Eat_Jellybeans!#/media/File:Let_them_eat_jellybeans.jpg
+[sideofthemoon]: https://www.bandarji.com/images/sjeblog-albumart-sideofthemoon.jpg
+[floydorig]: https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon#/media/File:The_Dark_Side_Of_The_Moon.jpg
+[worldtraveler]: https://www.bandarji.com/images/sjeblog-albumart-worldtraveler.jpg
+[mash]: https://www.bandarji.com/images/sjeblog-albumart-mash.jpg

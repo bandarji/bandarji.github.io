@@ -8,9 +8,9 @@ excerpt: "Go does not have a permutations function in the standard library, so I
 
 # Permutations A No-Go With Go
 
-No permutations function exists in Go's standard library. At least, as far as I
-know. I looked up a package to import that would do the trick, but I also took
-a peek at an algorithm to implement.
+No permutations function exists in Go's standard library. At least, as
+far as I know. I looked up a package to import that would do the trick,
+but I also took a peek at an algorithm to implement.
 
 ## Importing The Permute Package
 

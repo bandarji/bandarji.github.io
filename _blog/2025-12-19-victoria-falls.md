@@ -16,8 +16,7 @@ as *Chongwe*, or "The Place of the Rainbow", due to its constant mist.
 
 Right on the Zambia-Zimbabwe border, this waterfall of the Zambezi river, is
 the world's largest sheet of falling water, exceeding one mile. Check out
-[this link](https://upload.wikimedia.org/wikipedia/commons/1/13/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_16-20_PAN.jpg)
-for a panorama view of the falls.
+[this link][panorama] for a panorama view of the falls.
 
 ## Devil's Pool
 
@@ -29,7 +28,7 @@ with relative safety, making for fun photo ops and spectacular views.
 
 Gorgeous gorges comprise the falls system, six principal ones in total.
 
-![Victoria Falls gorge](https://www.bandarji.com/images/sjeblog-victoriafalls-gorge.jpg)
+![Victoria Falls gorge][gorge]
 
 ## Group Selfies
 
@@ -38,12 +37,17 @@ Our group took two selfies in Victoria Falls.
 Here, our group experienced the falls, with a combination of mist and dizzle
 soaking us.
 
-![Group at Victoria Falls](https://www.bandarji.com/images/sjeblog-victoriafalls-group.jpg)
+![Group at Victoria Falls][group]
 
 All good things come to an end. At the airport, we disbanded to catch flights
 home or onward to other adventures, but not before taking one last group
 photo.
 
-![Goodbye to Victoria Falls](https://www.bandarji.com/images/sjeblog-victoriafalls-goodbye.jpg)
+![Goodbye to Victoria Falls][goodbye]
 
 Tsamaya sentle!
+
+[panorama]: https://upload.wikimedia.org/wikipedia/commons/1/13/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_16-20_PAN.jpg
+[gorge]: https://www.bandarji.com/images/sjeblog-victoriafalls-gorge.jpg
+[group]: https://www.bandarji.com/images/sjeblog-victoriafalls-group.jpg
+[goodbye]: https://www.bandarji.com/images/sjeblog-victoriafalls-goodbye.jpg

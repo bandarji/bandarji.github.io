@@ -11,7 +11,7 @@ excerpt: "Hwange National Park, Zimbabwe"
 The first leg of our sixteen-day safari started in Hwange National Park,
 Zimbabwe. The largest natural reserve in the country, the park stretches
 over 5600 square miles. This park made news in 2015, with the hunting
-death of a lion, [Cecil](https://en.wikipedia.org/wiki/Killing_of_Cecil_the_lion).
+death of a lion, [Cecil][cecil].
 
 ## Cecil The Lion
 
@@ -26,7 +26,7 @@ Xanda, Cecil's son, ended up killed in a legal trophy hunt two years later.
 
 ## Entering Zimbabwe
 
-![Welcome to Zimbabwe](https://www.bandarji.com/images/sjeblog-hwange-01-airport.jpeg)
+![Welcome to Zimbabwe][airport]
 
 ## Some Serious Shit
 
@@ -34,7 +34,7 @@ Dung and dung beetles play a vital environmental role. By removing dung, they
 protect animals from flies and disease. When the bury dung, that plants
 seeds and improves soil, with nutrient recycling.
 
-![Dung beetle sign](https://www.bandarji.com/images/sjeblog-hwange-02-dung.jpeg)
+![Dung beetle sign][dung]
 
 ## Beer
 
@@ -43,7 +43,7 @@ On our first stop, I got to try a local beer,
 1992, the beer gets its name from the Zambezi River of Zimbabwe. On a
 hot day, nothing beats an ice-cold lager.
 
-![Zambezi Beer](https://www.bandarji.com/images/sjeblog-hwange-03-zambezibeer.jpeg)
+![Zambezi Beer][zambezibeer]
 
 One day, we visited a village, to better understand the life of an average
 family in Zimbabwe. We stopped at the edge of the village for a restroom
@@ -53,11 +53,11 @@ Albert, one of the guides, came with me to the pub and had me try a Castle
 lager. This South African beer ends up a bit stronger in flavor and alcohol
 content than Zambezi.
 
-![Castle lager](https://www.bandarji.com/images/sjeblog-hwange-05-castlebeer.jpeg)
+![Castle lager][castlebeer]
 
 It did not take too long for some others to find me and join me for a beer.
 
-![At the pub](https://www.bandarji.com/images/sjeblog-hwange-05-villagepub.jpeg)
+![At the pub][villagepub]
 
 ## Ngamo Village
 
@@ -78,34 +78,34 @@ availability of fruits to eat.
 
 On our drive back into the park, we came across an elephant roadblock.
 
-![Elephant roadblock](https://www.bandarji.com/images/sjeblog-hwange-07-elephantroadblock.jpeg)
+![Elephant roadblock][elephantroadblock]
 
 We also passed by the bones of an elephant. The hollow structure of the skull
 reduces weight, otherwise the elephant could not hold its head up.
 
-![Elephant bones](https://www.bandarji.com/images/sjeblog-hwange-04-elephantbones.jpeg)
+![Elephant bones][elephantbones]
 
 ## Lions and Zebra
 
-Of all the animals spotted in Hwange, including some rare antelope sightings of
-[sable](https://en.wikipedia.org/wiki/Sable_antelope) and
+Of all the animals spotted in Hwange, including some rare antelope sightings
+of [sable](https://en.wikipedia.org/wiki/Sable_antelope) and
 [eland](https://en.wikipedia.org/wiki/Common_eland), we ended up only
 approaching a limited few closely. Two that come to mind: lions and zebra.
 
 We encountered a group of lions resting.
 
-![Lionesses](https://www.bandarji.com/images/sjeblog-hwange-06-lions.jpeg)
+![Lionesses][lions]
 
 And, I got a good shot of a zebra.
 
-![Zebra](https://www.bandarji.com/images/sjeblog-hwange-10-zebra.jpeg)
+![Zebra][zebra]
 
 ## Safari
 
 I cannot say enough good things about the Hwange camp staff. One guide and I
 became fast friends and we spent nearly every minute together laughing.
 
-![Me and Albert](https://www.bandarji.com/images/sjeblog-hwange-11-albert.jpeg)
+![Me and Albert][albert]
 
 The sixteen campers ended up split between two game drive vehicles. One
 morning, I snapped a photo over my head of the folks in with me. So, out of
@@ -113,12 +113,12 @@ the sixteen folks, ten of us know each other as friends or friends of friends
 (or family). In this photo, five people, with me as the sixth, live in the
 same Reno community.
 
-![Vehicle One](https://www.bandarji.com/images/sjeblog-hwange-12-vehicle1.jpeg)
+![Vehicle One][vehicle1]
 
 Just before departure from Hwange National Park, the group of campers and
 staff got together for a photo. 
 
-![Group photo](https://www.bandarji.com/images/sjeblog-hwange-08-group.jpeg)
+![Group photo][group]
 
 ## Language
 
@@ -131,3 +131,17 @@ I picked up a few words.
 | tamboca casa | thank you very much |
 | siyaphila | we are fine |
 | zim zim | cheers! |
+
+[cecil]: https://en.wikipedia.org/wiki/Killing_of_Cecil_the_lion
+[airport]: https://www.bandarji.com/images/sjeblog-hwange-01-airport.jpeg
+[dung]: https://www.bandarji.com/images/sjeblog-hwange-02-dung.jpeg
+[zambezibeer]: https://www.bandarji.com/images/sjeblog-hwange-03-zambezibeer.jpeg
+[castlebeer]: https://www.bandarji.com/images/sjeblog-hwange-05-castlebeer.jpeg
+[villagepub]: https://www.bandarji.com/images/sjeblog-hwange-05-villagepub.jpeg
+[elephantroadblock]: https://www.bandarji.com/images/sjeblog-hwange-07-elephantroadblock.jpeg
+[elephantbones]: https://www.bandarji.com/images/sjeblog-hwange-04-elephantbones.jpeg
+[lions]: https://www.bandarji.com/images/sjeblog-hwange-06-lions.jpeg
+[zebra]: https://www.bandarji.com/images/sjeblog-hwange-10-zebra.jpeg
+[albert]: https://www.bandarji.com/images/sjeblog-hwange-11-albert.jpeg
+[vehicle1]: https://www.bandarji.com/images/sjeblog-hwange-12-vehicle1.jpeg
+[group]: https://www.bandarji.com/images/sjeblog-hwange-08-group.jpeg

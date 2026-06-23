@@ -25,15 +25,15 @@ I mentioned the cape buffalo's unpredictable aggressiveness
 [before](https://bandarji.github.io/blog/chobe/). As soon as these looked up
 from grazing and stared at us, we skedaddled.
 
-![Cape buffalo](https://www.bandarji.com/images/sjeblog-okavango-capebuffalo.jpg)
+![Cape buffalo][capebuffalo]
 
 Not necessarily rare, but rare to spot out in the open, these
 [bat-eared foxes](https://en.wikipedia.org/wiki/Bat-eared_fox) remained still
 enough for us to observe them for a few minutes. This creature appears on the
-seal of the
-[Botswana Department of Wildlife and National Parks](https://www.facebook.com/DWNPBW/).
+seal of the [Botswana Department of Wildlife and National
+Parks][dwnp].
 
-![Bat-eared foxes](https://www.bandarji.com/images/sjeblog-okavango-batearedfoxes.jpg)
+![Bat-eared foxes][batearedfoxes]
 
 We invaded this male lion's personal space. Had he not very recently had a
 meal he might have cared more. Instead, he grunted, groaned and eventually
@@ -68,4 +68,9 @@ reeds.
 AJ and her poler pose for a photo, while Randy and Keith come behind from
 their river adventure.
 
-![Mokoro](https://www.bandarji.com/images/sjeblog-okavango-canoe.jpg)
+![Mokoro][canoe]
+
+[capebuffalo]: https://www.bandarji.com/images/sjeblog-okavango-capebuffalo.jpg
+[dwnp]: https://www.facebook.com/DWNPBW/
+[batearedfoxes]: https://www.bandarji.com/images/sjeblog-okavango-batearedfoxes.jpg
+[canoe]: https://www.bandarji.com/images/sjeblog-okavango-canoe.jpg

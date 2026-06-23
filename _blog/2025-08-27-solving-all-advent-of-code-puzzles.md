@@ -62,5 +62,6 @@ opportunities have surfaced for me to expand my know-how.
 
 ## Documentation and Sharing
 
-[Blog posts](https://bandarji.github.io/coding/) will detail my journey. I have
-a [Github repository](https://github.com/bandarji/aoc) to house all solutions.
+[Blog posts](https://bandarji.github.io/coding/) will detail my journey. I
+have a [Github repository](https://github.com/bandarji/aoc) to house all
+solutions.

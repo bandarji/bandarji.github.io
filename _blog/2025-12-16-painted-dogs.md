@@ -18,14 +18,14 @@ witness.
 Dogs on the periphery of the pack remained alert, ears forward, motionless,
 ready to decide for the group whether or not to move.
 
-![Dogs on alert](https://www.bandarji.com/images/sjeblog-okavangodogs-dogsonalert.jpg)
+![Dogs on alert][dogsonalert]
 
 Painted dogs prefer the open space, where they can more easily keep track of
 the pack, a task more difficult to manage within thick brush. Unfortunately,
 that limited access to shade, but the dogs stay as cool as possible by resting
 in grass.
 
-![Painted dogs cooling off](https://www.bandarji.com/images/sjeblog-okavangodogs-cooling.jpg)
+![Painted dogs cooling off][cooling]
 
 ## Hyenas
 
@@ -55,4 +55,8 @@ conservationists have provided other means to safeguard livestock.
 Painted dogs made my top ten list of the coolest animals I got to see on
 safari. They reminded me of, well, dogs; just like any neighborhood dog.
 
-![Painted dogs walking](https://www.bandarji.com/images/sjeblog-okavangodogs-walking.jpg)
+![Painted dogs walking][walking]
+
+[dogsonalert]: https://www.bandarji.com/images/sjeblog-okavangodogs-dogsonalert.jpg
+[cooling]: https://www.bandarji.com/images/sjeblog-okavangodogs-cooling.jpg
+[walking]: https://www.bandarji.com/images/sjeblog-okavangodogs-walking.jpg
