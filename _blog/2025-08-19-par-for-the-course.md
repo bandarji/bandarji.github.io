@@ -13,4 +13,6 @@ couple of times a week. Hole 8, I knocked the ball from the tee box to
 within six or so feet from the pin. Well, it _still_ took two putts to sink
 the ball.
 
-![Hit the ball close to the pin](https://www.bandarji.com/images/sjeblog-closetothepin.jpg)
+![Hit the ball close to the pin][closetothepin]
+
+[closetothepin]: https://www.bandarji.com/images/sjeblog-closetothepin.jpg

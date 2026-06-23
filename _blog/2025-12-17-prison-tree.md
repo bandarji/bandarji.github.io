@@ -31,7 +31,7 @@ labor in fields or mines.
 This tree now stands as a historical marker, just outside a police station
 with concrete and steel jail cells.
 
-![Prison tree sign](https://www.bandarji.com/images/sjeblog-prisontree-sign.jpg)
+![Prison tree sign][sign]
 
 # Prison
 
@@ -42,4 +42,7 @@ From the outside, this appears like any other large baobab.
 Our entire safari group fit inside the baobab! Good thing we did not have to
 remain inside for long.
 
-![Inside the prison tree](https://www.bandarji.com/images/sjeblog-prisontree-inside.jpg)
+![Inside the prison tree][inside]
+
+[sign]: https://www.bandarji.com/images/sjeblog-prisontree-sign.jpg
+[inside]: https://www.bandarji.com/images/sjeblog-prisontree-inside.jpg
