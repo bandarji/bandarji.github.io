@@ -8,9 +8,9 @@ excerpt: "We met up with a lady I have played online Scrabble with since 2010."
 
 # Lunch in Nelsons Bay
 
-Kylie and I played an online game of Scrabble against one another back in
-2010. Hundreds of games later, we met for lunch in Nelsons Bay, Australia.
-Driving from Katoomba to Port Macquarie, This stop ended up convenient for
+Kylie and I played an online game of Scrabble against one another back
+in 2010. Hundreds of games later, we met for lunch in Nelsons Bay. Driving
+from Katoomba to Port Macquarie, This stop ended up convenient for
 a meal and chat.
 
 ## Scrabble Stats
