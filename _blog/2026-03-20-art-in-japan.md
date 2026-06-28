@@ -10,17 +10,18 @@ excerpt: "Art In Japan."
 
 ## TeamLab
 
-TeamLab Planets TOKYO DMM.com, or TeamLab, contains two art gardens and four
-artwork spaces, forming an art museum. By immersing people into the art, this
-space breaks the boundary between the body and the art itself. For example,
-people enter a room with hundreds of orchids hanging from the ceiling. As a
-person approaches, the orchids closest to the person rises into the air. The
-mirrored flooring gives the illusion that the floor and ceiling never end.
+TeamLab Planets TOKYO DMM.com, or [TeamLab][tl], contains two art gardens and
+four artwork spaces, forming an art museum. By immersing people into the art,
+this space breaks the boundary between the body and the art itself. For
+example, people enter a room with hundreds of orchids hanging from the
+ceiling. As a person approaches, the orchids closest to the person rises into
+the air. The mirrored flooring gives the illusion that the floor and ceiling
+never end.
 
 ![Orchid Ceiling][oc]
 
 In another space, technology allows people to capture creatures within wild
-spaces, to learn more about them. They call this "Catching and Collecting
+areas, to learn more about them. They call this "Catching and Collecting
 Forest".
 
 ![Jungle][dj]
@@ -49,6 +50,7 @@ This screen had some nice monkey art on it.
 
 ![Monkeys][monkeys]
 
+[tl]: https://www.teamlab.art/e/planets/
 [monkeys]: https://bandarji.com/images/sjeblog-japan-art1.jpg
 [eggs]: https://bandarji.com/images/sjeblog-japan-art111.jpg
 [dj]: https://bandarji.com/images/sjeblog-japan-art114.jpg
