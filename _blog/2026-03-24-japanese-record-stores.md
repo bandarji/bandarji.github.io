@@ -85,11 +85,11 @@ a few more.
 The tunes from Californian punk-turned-metal band, [Suicidal Tendencies'][st]
 first album still gets heavy rotation in my playlists. Tight musicianship
 and provocative lyrics, with songs *I Shot The Devil*, about assassinating
-then-president Ronald Reagan and *I Saw Your Mommy*, a reveal that one person
-knows the other paid to have his mother killed, caught my attention. The
-band's more thought-provoking songs, like *Memories Of Tomorrow*, about the
-state of things after nuclear war, and *Institutionalized*, talking about the
-struggle of teens whose parents think are in need of therapy.
+then-president Ronald Reagan and *I Saw Your Mommy*, one kid taunting another
+after that kid's mom's death, caught my attention. The band's more
+thought-provoking songs, like *Memories Of Tomorrow*, about the state of
+things after nuclear war, and *Institutionalized*, talking about the struggle
+of teens whose parents think are in need of therapy.
 
 I do not listen to much of their music after they crossed over into metal,
 but 1990's *Lights...Camera...Revolution!* contains the track
