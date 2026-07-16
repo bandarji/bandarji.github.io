@@ -20,8 +20,8 @@ posts about both of those things, along with other random stuff.
 
 ## Pages
 
-- **[About](about.md)** - About Me
-- **[Work](work.md)** - My professional experience
+- **[About](/about/)** - About Me
+- **[Work](/work/)** - My professional experience
 
 ## External Links
 
