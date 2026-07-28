@@ -453,6 +453,25 @@ body.theme-africa {
   --terminal-light-gray: #6b5a4a;
   --terminal-white: #f5e6c8;
   --terminal-cursor: #e85d04;
+}
+
+/* Australian flag palette: navy, red, white */
+body.theme-australia {
+  --terminal-green: #d6e0f5;
+  --terminal-green-dim: #8fa8d4;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #001a66;
+  --terminal-black: #001338;
+  --terminal-dark-gray: #012169;
+  --terminal-gray: #1a3d7a;
+  --terminal-light-gray: #5a7ab0;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #e4002b;
+}
+
+/* Shared proportional type for travel themes */
+body.theme-africa,
+body.theme-australia {
   font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.65;
@@ -469,16 +488,31 @@ body.theme-africa .post-content h4,
 body.theme-africa .post-content h5,
 body.theme-africa .post-content h6,
 body.theme-africa .post-navigation a,
-body.theme-africa .category-badge {
+body.theme-africa .category-badge,
+body.theme-australia .site-title,
+body.theme-australia .site-subtitle,
+body.theme-australia .site-nav a,
+body.theme-australia .post-title,
+body.theme-australia .post-content h1,
+body.theme-australia .post-content h2,
+body.theme-australia .post-content h3,
+body.theme-australia .post-content h4,
+body.theme-australia .post-content h5,
+body.theme-australia .post-content h6,
+body.theme-australia .post-navigation a,
+body.theme-australia .category-badge {
   letter-spacing: 0.04em;
 }
 
-body.theme-africa .post-content {
+body.theme-africa .post-content,
+body.theme-australia .post-content {
   font-size: 1.05rem;
   line-height: 1.7;
 }
 
 body.theme-africa .post-content code,
-body.theme-africa .post-content pre {
+body.theme-africa .post-content pre,
+body.theme-australia .post-content code,
+body.theme-australia .post-content pre {
   font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
 }

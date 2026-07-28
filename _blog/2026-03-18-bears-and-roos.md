@@ -3,6 +3,7 @@ layout: post
 title: "Bears and Roos"
 date: 2026-03-18
 categories: [travel, australia]
+theme: australia
 excerpt: "Bears and Roos."
 ---
 

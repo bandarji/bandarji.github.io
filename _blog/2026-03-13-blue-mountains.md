@@ -3,6 +3,7 @@ layout: post
 title: "Blue Mountains"
 date: 2026-03-13
 categories: [travel, australia]
+theme: australia
 excerpt: "Checked out Three Sisters in Katoomba."
 ---
 

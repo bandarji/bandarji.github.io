@@ -3,6 +3,7 @@ layout: post
 title: "Indian Food in Sydney"
 date: 2026-03-05
 categories: [travel, australia]
+theme: australia
 excerpt: "Indian Food in the Harris Park area of Sydney."
 ---
 

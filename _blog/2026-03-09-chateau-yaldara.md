@@ -3,6 +3,7 @@ layout: post
 title: "Chateau Yaldara"
 date: 2026-03-09
 categories: [travel, australia]
+theme: australia
 excerpt: "Chateau Yaldara, Barossa Valley."
 ---
 

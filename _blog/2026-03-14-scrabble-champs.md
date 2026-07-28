@@ -3,6 +3,7 @@ layout: post
 title: "Scrabble Champs"
 date: 2026-03-14
 categories: [travel, australia]
+theme: australia
 excerpt: "We met up with a lady I have played online Scrabble with since 2010."
 ---
 

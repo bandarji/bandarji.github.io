@@ -3,6 +3,7 @@ layout: post
 title: "Bondi Beach"
 date: 2026-03-07
 categories: [travel, australia]
+theme: australia
 excerpt: "Bondi Beach, Sydney."
 ---
 
