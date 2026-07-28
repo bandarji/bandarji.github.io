@@ -8,6 +8,16 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    {% if page.theme == 'africa' or page.theme == 'australia' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    {% elsif page.theme == 'japan' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    {% endif %}
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
@@ -25,7 +35,7 @@
 
     {% include google-analytics.html %}
 </head>
-<body>
+<body{% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
     <header class="site-header">
         <div class="site-content">
             <h1 class="site-title">
@@ -54,7 +64,7 @@
         </div>
     </nav>
 
-    <main class="site-content">
+    <main class="site-content"{% if page.max_width %} style="max-width: {{ page.max_width }}"{% endif %}>
         {{ content }}
     </main>
 

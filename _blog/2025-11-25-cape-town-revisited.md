@@ -3,6 +3,7 @@ layout: post
 title: "Cape Town Revisited"
 date: 2025-11-25
 categories: [travel]
+theme: africa
 excerpt: "Ten days in Cape Town kick off a Southern African safari."
 ---
 
@@ -15,7 +16,7 @@ start a safari in Zimbabwe, Zambia and Botswana.
 
 We checked into [The Last Word](https://thelastword.co.za/hotel/long-beach),
 a cute place to stay in Kommetjie, on the Western Cape. Views open to Long
-Beach, a dog-friendly stetch of white sand bordering crystal-blue water.
+Beach, a dog-friendly stretch of white sand bordering crystal-blue water.
 
 ![Long Beach][longbeach]
 

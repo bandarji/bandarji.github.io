@@ -3,6 +3,7 @@ layout: post
 title: "Gold Coast"
 date: 2026-03-17
 categories: [travel, australia]
+theme: australia
 excerpt: "Stayed a few nights in Gold Coast, Queensland."
 ---
 

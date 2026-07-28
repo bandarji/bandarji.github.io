@@ -3,6 +3,7 @@ layout: post
 title: "Port Macquarie"
 date: 2026-03-15
 categories: [travel, australia]
+theme: australia
 excerpt: "Port Macquarie, New South Wales."
 ---
 

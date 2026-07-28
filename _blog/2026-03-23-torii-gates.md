@@ -3,6 +3,7 @@ layout: post
 title: "Torii Gates"
 date: 2026-03-23
 categories: [travel, japan]
+theme: japan
 excerpt: "Torii Gates."
 ---
 

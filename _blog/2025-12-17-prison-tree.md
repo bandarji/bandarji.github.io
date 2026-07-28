@@ -3,6 +3,7 @@ layout: post
 title: "Prison Tree"
 date: 2025-12-17
 categories: [travel]
+theme: africa
 excerpt: "A jail cell on the mail route."
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Art In Japan"
 date: 2026-03-20
 categories: [travel, japan]
+theme: japan
 excerpt: "Art In Japan."
 ---
 

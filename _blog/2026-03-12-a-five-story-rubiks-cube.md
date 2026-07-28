@@ -3,6 +3,7 @@ layout: post
 title: "A Five-Story Rubik's Cube"
 date: 2026-03-12
 categories: [travel, australia]
+theme: australia
 excerpt: "A Five-Story Rubik's Cube."
 ---
 
