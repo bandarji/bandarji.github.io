@@ -2,7 +2,7 @@
 layout: post
 title: "Stellenbosch"
 date: 2025-11-25
-categories: [travel]
+categories: [travel, africa]
 theme: africa
 excerpt: "Everyone needs a few days in the South Africa Wine Country."
 ---

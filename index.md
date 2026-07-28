@@ -11,21 +11,19 @@ Hello, world!
 
 AKA बंदरजी, ਬਾਂਦਰਜੀ, ಕೋತಿಅವರೇ, お猿さん, Мистер Обезьян and 猴子先生
 
-For work, I write software. For fun, I like to travel. This site contains
-posts about both of those things, along with other random stuff.
-
-## Blog
-
-- **[Blog](/blog/)** - Thoughts, adventures, and discoveries
+I enjoy [coding][coding], [travel][travel] and [music][music]. Most of this
+site contains posts on those categories, but you might find other, random
+topics.
 
 ## Pages
 
-- **[About](/about/)** - About Me
-- **[Work](/work/)** - My professional experience
+- **[About][about]** - About Me
+- **[Blog][blog]** - My blog
+- **[Hiatus][hiatus]** - Took one year off, to travel
+- **[Work][work]** - My professional experience
 
 ## External Links
 
-- [Personal Site](https://bandarji.com/) -- A bit about me, minus the blog
 - [LinkedIn](https://linkedin.com/in/bandarji) -- Connect professionally
 - [Github](https://github.com/bandarji) -- Some software contributions
 - [Instagram](https://instagram.com/bandarji) -- Pictures, pictures, pictures
@@ -35,3 +33,11 @@ posts about both of those things, along with other random stuff.
 ## Additional Information
 
 You have reached the end of this page and possibly the entire Internet.
+
+[about]: /about/
+[blog]: /blog/
+[coding]: /categories/coding/
+[hiatus]: /hiatus/
+[travel]: /categories/travel/
+[music]: /categories/music/
+[work]: /work/

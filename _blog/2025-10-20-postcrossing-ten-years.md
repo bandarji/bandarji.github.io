@@ -3,6 +3,7 @@ layout: post
 title: "Hi, I am Sean and I am a deltiologist."
 date: 2025-10-20
 categories: [hiatus, travel]
+theme: travel
 excerpt: "I trade postcards with people worldwide on the Postcrossing site."
 ---
 

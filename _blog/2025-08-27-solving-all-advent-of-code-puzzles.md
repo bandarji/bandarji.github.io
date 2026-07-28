@@ -3,6 +3,7 @@ layout: post
 title: "Advent of Code 2015-2024: A Go and Rust Learning Journey"
 date: 2025-08-27
 categories: [coding]
+theme: xmas
 excerpt: "I intend to solve all Advent of Code puzzles from 2015 to 2024 in Go and Rust."
 ---
 
@@ -44,13 +45,13 @@ for validating code through tests. The Makefile accepts `make test` and output
 for one day's solutions looks like so:
 
 ```
-github.com/bandarji/aoc/adventofcode/y15d05.go:22:	y15d05				100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:32:	y15d05NiceString		100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:45:	y15d05HasSpacedRepeat		100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:54:	y15d05HasTwoTwice		100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:66:	y15d05HasBadCombos		100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:78:	y15d05HasCharTwiceTogether	100.0%
-github.com/bandarji/aoc/adventofcode/y15d05.go:87:	y15d05HasThreeVowels		100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:8:   y15d05                      100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:18:  y15d05NiceString            100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:31:  y15d05HasSpacedRepeat       100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:40:  y15d05HasTwoTwice           100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:52:  y15d05HasBadCombos          100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:64:  y15d05HasCharTwiceTogether  100.0%
+github.com/bandarji/aoc/adventofcode/y15d05.go:73:  y15d05HasThreeVowels        100.0%
 ```
 
 ## Phase Two: Get Rusty

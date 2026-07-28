@@ -3,6 +3,7 @@ layout: post
 title: "Two Weeks In"
 date: 2025-08-09
 categories: [hiatus]
+theme: hiatus
 excerpt: "Two weeks without work, here is what I have done to stay busy."
 ---
 
