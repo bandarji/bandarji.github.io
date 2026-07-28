@@ -2,7 +2,7 @@
 layout: post
 title: "Cape Town Revisited"
 date: 2025-11-25
-categories: [travel]
+categories: [travel, africa]
 theme: africa
 excerpt: "Ten days in Cape Town kick off a Southern African safari."
 ---

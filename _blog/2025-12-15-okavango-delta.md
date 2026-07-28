@@ -2,7 +2,7 @@
 layout: post
 title: "Okavango Delta"
 date: 2025-12-15
-categories: [travel]
+categories: [travel, africa]
 theme: africa
 excerpt: "Flew out to the delta."
 ---

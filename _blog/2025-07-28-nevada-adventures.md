@@ -3,6 +3,7 @@ layout: post
 title: "Nevada Adventures"
 date: 2025-07-28
 categories: [travel]
+theme: travel
 excerpt: "I moved to Reno, Nevada, at the start of 2025. Time to see all that the state has to offer."
 ---
 

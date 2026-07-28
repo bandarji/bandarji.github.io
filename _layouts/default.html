@@ -17,6 +17,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    {% elsif page.theme == 'travel' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    {% elsif page.theme == 'hiatus' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    {% elsif page.theme == 'xmas' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     {% endif %}
     
     <!-- Favicon -->
@@ -33,7 +45,6 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
 
-    {% include google-analytics.html %}
 </head>
 <body{% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
     <header class="site-header">
@@ -54,13 +65,9 @@
             <a href="{{ '/' | relative_url }}">Home</a>
             <a href="{{ '/blog/' | relative_url }}">Blog</a>
             <a href="{{ '/categories/coding/' | relative_url }}">Coding</a>
-            <a href="{{ '/categories/hiatus/' | relative_url }}">Hiatus</a>
             <a href="{{ '/categories/travel/' | relative_url }}">Travel</a>
             <a href="{{ '/work/' | relative_url }}">Work</a>
             <a href="{{ '/about/' | relative_url }}">About</a>
-            {% if site.github %}
-            <a href="{{ site.github }}" target="_blank">GitHub</a>
-            {% endif %}
         </div>
     </nav>
 
