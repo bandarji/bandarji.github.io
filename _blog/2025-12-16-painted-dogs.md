@@ -3,6 +3,7 @@ layout: post
 title: "Painted Dogs"
 date: 2025-12-16
 categories: [travel]
+theme: africa
 excerpt: "African wild dogs in the Okavango Delta."
 ---
 

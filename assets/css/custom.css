@@ -440,3 +440,45 @@ body {
   background-color: var(--terminal-green);
   color: var(--terminal-black);
 }
+
+/* Africa-inspired palette (Southern Africa travel posts) */
+body.theme-africa {
+  --terminal-green: #e8a317;
+  --terminal-green-dim: #c4841a;
+  --terminal-green-bright: #ffc94a;
+  --terminal-green-dark: #8b5a00;
+  --terminal-black: #0c0a08;
+  --terminal-dark-gray: #1f1812;
+  --terminal-gray: #3d3228;
+  --terminal-light-gray: #6b5a4a;
+  --terminal-white: #f5e6c8;
+  --terminal-cursor: #e85d04;
+  font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+body.theme-africa .site-title,
+body.theme-africa .site-subtitle,
+body.theme-africa .site-nav a,
+body.theme-africa .post-title,
+body.theme-africa .post-content h1,
+body.theme-africa .post-content h2,
+body.theme-africa .post-content h3,
+body.theme-africa .post-content h4,
+body.theme-africa .post-content h5,
+body.theme-africa .post-content h6,
+body.theme-africa .post-navigation a,
+body.theme-africa .category-badge {
+  letter-spacing: 0.04em;
+}
+
+body.theme-africa .post-content {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+body.theme-africa .post-content code,
+body.theme-africa .post-content pre {
+  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+}

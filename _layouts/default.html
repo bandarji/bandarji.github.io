@@ -8,6 +8,12 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    {% if page.theme == 'africa' %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+    {% endif %}
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
@@ -25,7 +31,7 @@
 
     {% include google-analytics.html %}
 </head>
-<body>
+<body{% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
     <header class="site-header">
         <div class="site-content">
             <h1 class="site-title">
