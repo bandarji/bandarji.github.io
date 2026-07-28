@@ -3,6 +3,7 @@ layout: post
 title: "Deer of Nara"
 date: 2026-03-25
 categories: [travel, japan]
+theme: japan
 excerpt: "Deer of Nara."
 ---
 

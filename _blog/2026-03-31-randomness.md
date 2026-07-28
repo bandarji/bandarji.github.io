@@ -3,6 +3,7 @@ layout: post
 title: "Randomness"
 date: 2026-03-31
 categories: [travel, japan]
+theme: japan
 excerpt: "A few random things from Japan."
 ---
 

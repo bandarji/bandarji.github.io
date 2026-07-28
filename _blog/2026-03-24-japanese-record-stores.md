@@ -3,6 +3,7 @@ layout: post
 title: "Japanese Record Stores"
 date: 2026-03-24
 categories: [travel, japan]
+theme: japan
 excerpt: "Japanese Record Stores."
 ---
 

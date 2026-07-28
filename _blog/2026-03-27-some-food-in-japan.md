@@ -3,6 +3,7 @@ layout: post
 title: "Some Food In Japan"
 date: 2026-03-27
 categories: [travel, japan]
+theme: japan
 excerpt: "Some Food In Japan."
 ---
 

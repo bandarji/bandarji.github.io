@@ -3,6 +3,7 @@ layout: post
 title: "The Zen Of Starbucks"
 date: 2026-03-19
 categories: [travel, japan]
+theme: japan
 excerpt: "Starbucks as you have never seen them before."
 ---
 

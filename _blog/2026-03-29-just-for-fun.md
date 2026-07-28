@@ -3,6 +3,7 @@ layout: post
 title: "Just For Fun"
 date: 2026-03-29
 categories: [travel, japan]
+theme: japan
 excerpt: "Just For Fun."
 ---
 
