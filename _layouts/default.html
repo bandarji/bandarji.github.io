@@ -64,7 +64,7 @@
         </div>
     </nav>
 
-    <main class="site-content">
+    <main class="site-content"{% if page.max_width %} style="max-width: {{ page.max_width }}"{% endif %}>
         {{ content }}
     </main>
 

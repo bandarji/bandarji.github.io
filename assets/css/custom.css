@@ -559,3 +559,46 @@ body.theme-australia .post-content code,
 body.theme-australia .post-content pre {
   font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
 }
+
+/* Music posts: black, white, gray with large generic type */
+body.theme-music {
+  --terminal-green: #d0d0d0;
+  --terminal-green-dim: #888888;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #555555;
+  --terminal-black: #000000;
+  --terminal-dark-gray: #1a1a1a;
+  --terminal-gray: #333333;
+  --terminal-light-gray: #666666;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #aaaaaa;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+body.theme-music .site-title,
+body.theme-music .site-subtitle,
+body.theme-music .site-nav a,
+body.theme-music .post-title,
+body.theme-music .post-content h1,
+body.theme-music .post-content h2,
+body.theme-music .post-content h3,
+body.theme-music .post-content h4,
+body.theme-music .post-content h5,
+body.theme-music .post-content h6,
+body.theme-music .post-navigation a,
+body.theme-music .category-badge {
+  letter-spacing: 0.03em;
+}
+
+body.theme-music .post-content {
+  font-size: 1.2rem;
+  line-height: 1.8;
+}
+
+body.theme-music .post-content code,
+body.theme-music .post-content pre {
+  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+  font-size: 0.85em;
+}
