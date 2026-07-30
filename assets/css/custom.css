@@ -469,6 +469,20 @@ body.theme-australia {
   --terminal-cursor: #e4002b;
 }
 
+/* German flag palette: black, red, gold — navy/slate base */
+body.theme-germany {
+  --terminal-green: #ffcc00;
+  --terminal-green-dim: #c9a000;
+  --terminal-green-bright: #ffd54a;
+  --terminal-green-dark: #8b6914;
+  --terminal-black: #0f1a2e;
+  --terminal-dark-gray: #1a2740;
+  --terminal-gray: #2e3f5c;
+  --terminal-light-gray: #5a6e8a;
+  --terminal-white: #f5f0e6;
+  --terminal-cursor: #dd0000;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
@@ -514,7 +528,8 @@ body.theme-japan .post-content pre {
 
 /* Shared proportional type for travel themes */
 body.theme-africa,
-body.theme-australia {
+body.theme-australia,
+body.theme-germany {
   font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.65;
@@ -543,12 +558,25 @@ body.theme-australia .post-content h4,
 body.theme-australia .post-content h5,
 body.theme-australia .post-content h6,
 body.theme-australia .post-navigation a,
-body.theme-australia .category-badge {
+body.theme-australia .category-badge,
+body.theme-germany .site-title,
+body.theme-germany .site-subtitle,
+body.theme-germany .site-nav a,
+body.theme-germany .post-title,
+body.theme-germany .post-content h1,
+body.theme-germany .post-content h2,
+body.theme-germany .post-content h3,
+body.theme-germany .post-content h4,
+body.theme-germany .post-content h5,
+body.theme-germany .post-content h6,
+body.theme-germany .post-navigation a,
+body.theme-germany .category-badge {
   letter-spacing: 0.04em;
 }
 
 body.theme-africa .post-content,
-body.theme-australia .post-content {
+body.theme-australia .post-content,
+body.theme-germany .post-content {
   font-size: 1.05rem;
   line-height: 1.7;
 }
@@ -556,8 +584,14 @@ body.theme-australia .post-content {
 body.theme-africa .post-content code,
 body.theme-africa .post-content pre,
 body.theme-australia .post-content code,
-body.theme-australia .post-content pre {
+body.theme-australia .post-content pre,
+body.theme-germany .post-content code,
+body.theme-germany .post-content pre {
   font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+}
+
+body.theme-germany .site-content {
+  max-width: 900px;
 }
 
 /* Music posts: black, white, gray with large generic type */
