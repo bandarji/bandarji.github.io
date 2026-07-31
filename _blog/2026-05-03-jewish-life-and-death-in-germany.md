@@ -10,15 +10,7 @@ excerpt: "Nazis killed approximately six million Jews in the Holocaust."
 # History
 
 Jews have experienced persecution throughout their history. The time spans,
-politics and specific incidents number too many to cite. A people who
-largely keep to themselves, trading amongst each other, maintaining their
-own language, teaching in their own schools and having their own rituals, the
-Jews generally ended up misunderstood and became convenient scapegoats. For
-example, during the Black Death, many Jews stood trial for poisoning wells
-and performing other acts to cause and continue the plague. In one incident,
-around 2,000 Jews ended up burned alive in the *Valentine's Day Massacre*,
-in Stasbourg, in 1349. Many Christians blamed the Jews for the killing of
-Jesus, regardless of various churches opposing the thought. Persecutions
+politics and specific incidents number too many to cite. Persecutions
 reached their most distructive under Nazi Germany policies, leading to The
 Holocaust.
 
@@ -99,4 +91,4 @@ under Nazi rule, with deportations, forced labor and death camps.
 [orders1]: https://bandarji.com/images/germany-jews-orders.jpg
 [orders2]: https://bandarji.com/images/germany-jews-orders2.jpg
 [tot]: https://bandarji.com/images/germany-jews-terror.jpg
-[responsible]: https://bandarji.com/images/germany-jews-responsbility.jpg
+[responsible]: https://bandarji.com/images/germany-jews-responsibility.jpg
