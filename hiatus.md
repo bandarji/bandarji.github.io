@@ -26,6 +26,8 @@ Browse posts by category:
 - **[Africa][africa]** — South Africa, Zimbabwe, Zambia and Botswana
 - **[Australia][australia]** — Sydney, Adelaide and a drive to Gold Coast
 - **[Japan][japan]** — Shrines, cherry blossoms and record stores
+- **[Germany][germany]** - Ampelmann!
+- **[Netherlands][netherlands]** - Water, water everywhere.
 
 More posts for Europe coming soon!
 
@@ -33,3 +35,5 @@ More posts for Europe coming soon!
 [africa]: /categories/africa/
 [australia]: /categories/australia/
 [japan]: /categories/japan/
+[germany]: /categories/germany/
+[netherlands]: /categories/netherlands/
