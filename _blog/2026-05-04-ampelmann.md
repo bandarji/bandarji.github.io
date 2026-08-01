@@ -19,15 +19,14 @@ By adding shapes to the lights, anyone who saw the light would understand its
 intention. The green light had a cutout of a walking Ampelmann, the red a man
 with his arms outstretched, legs together.
 
-**Ampelmann Spotted**
+**Ampelmann Red**
 
-![Ampelmann Spotted][ampelmann]
+![Ampelmann Spotted][red]
 
-**Ampelmann Souvenirs**
+**Ampelmann Green**
 
-Credit: Wikipedia
+![Ampelmann Spotted][green]
 
-![Souvenirs][souvenirs]
 
-[ampelmann]: https://bandarji.com/images/germany-amplemann.jpg
-[souvenirs]: https://upload.wikimedia.org/wikipedia/commons/7/70/East_Berlin_traffic_lights3.jpg
+[red]: https://bandarji.com/images/germany-amplemann.jpg
+[green]: https://bandarji.com/images/sjeblog-germany-ampelmanngreen.jpg
