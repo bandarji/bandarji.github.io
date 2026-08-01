@@ -483,6 +483,20 @@ body.theme-germany {
   --terminal-cursor: #dd0000;
 }
 
+/* Dutch palette: orange, flag red, cobalt blue */
+body.theme-netherlands {
+  --terminal-green: #ff7900;
+  --terminal-green-dim: #c45f00;
+  --terminal-green-bright: #ff9933;
+  --terminal-green-dark: #8b4200;
+  --terminal-black: #0a1628;
+  --terminal-dark-gray: #152848;
+  --terminal-gray: #21468b;
+  --terminal-light-gray: #5a7ab0;
+  --terminal-white: #f5f5f7;
+  --terminal-cursor: #ae1c28;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
@@ -529,7 +543,8 @@ body.theme-japan .post-content pre {
 /* Shared proportional type for travel themes */
 body.theme-africa,
 body.theme-australia,
-body.theme-germany {
+body.theme-germany,
+body.theme-netherlands {
   font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.65;
@@ -570,13 +585,26 @@ body.theme-germany .post-content h4,
 body.theme-germany .post-content h5,
 body.theme-germany .post-content h6,
 body.theme-germany .post-navigation a,
-body.theme-germany .category-badge {
+body.theme-germany .category-badge,
+body.theme-netherlands .site-title,
+body.theme-netherlands .site-subtitle,
+body.theme-netherlands .site-nav a,
+body.theme-netherlands .post-title,
+body.theme-netherlands .post-content h1,
+body.theme-netherlands .post-content h2,
+body.theme-netherlands .post-content h3,
+body.theme-netherlands .post-content h4,
+body.theme-netherlands .post-content h5,
+body.theme-netherlands .post-content h6,
+body.theme-netherlands .post-navigation a,
+body.theme-netherlands .category-badge {
   letter-spacing: 0.04em;
 }
 
 body.theme-africa .post-content,
 body.theme-australia .post-content,
-body.theme-germany .post-content {
+body.theme-germany .post-content,
+body.theme-netherlands .post-content {
   font-size: 1.05rem;
   line-height: 1.7;
 }
@@ -586,12 +614,18 @@ body.theme-africa .post-content pre,
 body.theme-australia .post-content code,
 body.theme-australia .post-content pre,
 body.theme-germany .post-content code,
-body.theme-germany .post-content pre {
+body.theme-germany .post-content pre,
+body.theme-netherlands .post-content code,
+body.theme-netherlands .post-content pre {
   font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
 }
 
 body.theme-germany .site-content {
   max-width: 900px;
+}
+
+body.theme-netherlands .site-content {
+  max-width: 1000px;
 }
 
 /* Music posts: black, white, gray with large generic type */
