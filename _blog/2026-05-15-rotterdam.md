@@ -65,7 +65,7 @@ I love it when buildings have more paint than just paint on their exteriors.
 ![][e]
 
 Standing more than 25 feet, these fake oil drums form a humanlike figure. The
-artist named it **Cascade**, meant to "evoke themes of resource exhaustion,
+artist named it *Cascade*, meant to "evoke themes of resource exhaustion,
 economic crisis and the fragility of modern consumer culture."
 
 ### On The Naughty List
@@ -74,7 +74,7 @@ economic crisis and the fragility of modern consumer culture."
 
 The artist intended for Santa to hold up a Christmas tree. Unfortunately,
 more than one person has noticed it looks more like something else, having
-the artpiece commonly called **Buttplug Gnome**.
+the artpiece commonly called *Buttplug Gnome*.
 
 ## Food and Drink
 
@@ -90,8 +90,8 @@ little vendor.
 ![][h]
 
 Found an Indian food booth in a Rotterdam market. When I lived in India, I
-rode a Royal Enfield, so I liked seeing the "Made like a gun, goes like a
-bullet" wording.
+rode a Royal Enfield, so I liked seeing the *"Made like a gun, goes like a*
+*bullet"* wording.
 
 [ejcod]: https://youtu.be/3MLwN6JoMEA
 [c]: https://bandarji.com/images/sjeblog_rotterdam_carcrash.jpg

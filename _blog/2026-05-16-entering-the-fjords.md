@@ -24,3 +24,15 @@ Fjords look like someone took a mountain range and flooded the valleys.
 The water runs deep. The walls go straight up. Clouds snag on the peaks
 and hang there like laundry that never quite dries.
 
+![][a]
+
+![][b]
+
+![][c]
+
+![][d]
+
+[a]: https://bandarji.com/images/fj01.jpg
+[b]: https://bandarji.com/images/fj03.jpg
+[c]: https://bandarji.com/images/fj07.jpg
+[d]: https://bandarji.com/images/fj08.jpg
