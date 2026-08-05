@@ -497,6 +497,20 @@ body.theme-netherlands {
   --terminal-cursor: #ae1c28;
 }
 
+/* Norwegian flag palette: red, white, blue */
+body.theme-norway {
+  --terminal-green: #d6e4f5;
+  --terminal-green-dim: #8fa8c9;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #001a44;
+  --terminal-black: #000f28;
+  --terminal-dark-gray: #00205b;
+  --terminal-gray: #1a3a6e;
+  --terminal-light-gray: #5a7ab0;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ba0c2f;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
@@ -544,7 +558,8 @@ body.theme-japan .post-content pre {
 body.theme-africa,
 body.theme-australia,
 body.theme-germany,
-body.theme-netherlands {
+body.theme-netherlands,
+body.theme-norway {
   font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
   font-size: 16px;
   line-height: 1.65;
@@ -597,14 +612,27 @@ body.theme-netherlands .post-content h4,
 body.theme-netherlands .post-content h5,
 body.theme-netherlands .post-content h6,
 body.theme-netherlands .post-navigation a,
-body.theme-netherlands .category-badge {
+body.theme-netherlands .category-badge,
+body.theme-norway .site-title,
+body.theme-norway .site-subtitle,
+body.theme-norway .site-nav a,
+body.theme-norway .post-title,
+body.theme-norway .post-content h1,
+body.theme-norway .post-content h2,
+body.theme-norway .post-content h3,
+body.theme-norway .post-content h4,
+body.theme-norway .post-content h5,
+body.theme-norway .post-content h6,
+body.theme-norway .post-navigation a,
+body.theme-norway .category-badge {
   letter-spacing: 0.04em;
 }
 
 body.theme-africa .post-content,
 body.theme-australia .post-content,
 body.theme-germany .post-content,
-body.theme-netherlands .post-content {
+body.theme-netherlands .post-content,
+body.theme-norway .post-content {
   font-size: 1.05rem;
   line-height: 1.7;
 }
@@ -616,11 +644,14 @@ body.theme-australia .post-content pre,
 body.theme-germany .post-content code,
 body.theme-germany .post-content pre,
 body.theme-netherlands .post-content code,
-body.theme-netherlands .post-content pre {
+body.theme-netherlands .post-content pre,
+body.theme-norway .post-content code,
+body.theme-norway .post-content pre {
   font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
 }
 
-body.theme-germany .site-content {
+body.theme-germany .site-content,
+body.theme-norway .site-content {
   max-width: 900px;
 }
 
