@@ -27,7 +27,8 @@ Browse posts by category:
 - **[Australia][australia]** — Sydney, Adelaide and a drive to Gold Coast
 - **[Japan][japan]** — Shrines, cherry blossoms and record stores
 - **[Germany][germany]** - Ampelmann!
-- **[Netherlands][netherlands]** - Water, water everywhere.
+- **[Netherlands][netherlands]** - Water, water everywhere
+- **[Norway][norway]** - Went as far north as possible
 
 More posts for Europe coming soon!
 
@@ -37,3 +38,4 @@ More posts for Europe coming soon!
 [japan]: /categories/japan/
 [germany]: /categories/germany/
 [netherlands]: /categories/netherlands/
+[norway]: /categories/norway.md
