@@ -702,6 +702,23 @@ body.theme-music .post-content pre {
   font-size: 0.85em;
 }
 
+body.theme-music .post-content table.records-for-sale {
+  font-size: 0.75rem;
+  line-height: 1.35;
+  border: none;
+}
+
+body.theme-music .post-content table.records-for-sale th,
+body.theme-music .post-content table.records-for-sale td {
+  font-size: inherit;
+  padding: 0.25rem 0.4rem;
+  border: none;
+}
+
+body.theme-music .post-content table.records-for-sale tbody tr:nth-child(even) {
+  background-color: var(--terminal-dark-gray);
+}
+
 /* Travel theme: cartographic map palette */
 body.theme-travel {
   --terminal-green: #7eb8c9;
