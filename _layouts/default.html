@@ -62,6 +62,11 @@
 
 </head>
 <body{% if page.theme or page.terminal %} class="{% if page.theme %}theme-{{ page.theme }}{% endif %}{% if page.theme and page.terminal %} {% endif %}{% if page.terminal %}terminal-page{% endif %}"{% endif %}>
+    {% unless page.theme %}
+    <div class="terminal-fx" aria-hidden="true">
+        <canvas class="terminal-static-noise"></canvas>
+    </div>
+    {% endunless %}
     <!-- Page Title
     <header class="site-header">
         <div class="site-content">
@@ -101,6 +106,9 @@
             {% endif %}
         </div>
     </footer>
+    {% unless page.theme %}
+    <script src="{{ '/assets/js/terminal-static.js' | relative_url }}"></script>
+    {% endunless %}
     {% if page.terminal %}
     <script src="{{ '/assets/js/serial-terminal.js' | relative_url }}"></script>
     {% endif %}
