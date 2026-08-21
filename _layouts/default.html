@@ -49,8 +49,19 @@
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | truncate: 160 }}">
 
+    {% if page.terminal %}
+    <script>
+      if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        document.documentElement.classList.add('terminal-pending');
+        setTimeout(function () {
+          document.documentElement.classList.remove('terminal-pending');
+        }, 8000);
+      }
+    </script>
+    {% endif %}
+
 </head>
-<body{% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
+<body{% if page.theme or page.terminal %} class="{% if page.theme %}theme-{{ page.theme }}{% endif %}{% if page.theme and page.terminal %} {% endif %}{% if page.terminal %}terminal-page{% endif %}"{% endif %}>
     <!-- Page Title
     <header class="site-header">
         <div class="site-content">
@@ -90,5 +101,8 @@
             {% endif %}
         </div>
     </footer>
+    {% if page.terminal %}
+    <script src="{{ '/assets/js/serial-terminal.js' | relative_url }}"></script>
+    {% endif %}
 </body>
 </html>

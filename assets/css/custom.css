@@ -402,19 +402,37 @@ body {
   border-bottom: none;
 }
 
-/* Terminal cursor effect - only on home page */
-.home-content::after {
-  content: "_";
-  color: var(--terminal-cursor);
-  animation: blink 1s infinite;
-  font-weight: bold;
+/* Hide home content until the serial typewriter starts (no flash of full text). */
+html.terminal-pending main.site-content,
+html.terminal-pending .site-footer,
+body.is-booting .site-footer {
+  visibility: hidden;
+}
+
+.terminal-cursor {
   display: inline-block;
-  margin-left: 0.2rem;
+  width: 0.7ch;
+  height: 1em;
+  margin-left: 0.1rem;
+  background-color: var(--terminal-cursor);
+  vertical-align: -0.1em;
+  animation: blink 1s step-end infinite;
 }
 
 @keyframes blink {
   0%, 50% { opacity: 1; }
   51%, 100% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.terminal-pending main.site-content,
+  html.terminal-pending .site-footer {
+    visibility: visible;
+  }
+
+  .terminal-cursor {
+    animation: none;
+  }
 }
 
 /* Terminal startup effect */

@@ -2,39 +2,41 @@
 layout: default
 tags: home
 max_width: 800px
+terminal: true
 ---
 
 <div class="home-content">
 Hello, world!
 </div>
 
-## Sean Jain Ellis
+#### Sean Jain Ellis
 
-AKA बंदरजी, ਬਾਂਦਰਜੀ, ಕೋತಿಅವರೇ, お猿さん, Мистер Обезьян and 猴子先生
+Welcome to my personal site. I write code, listen (mostly) to punk rock
+music and enjoy world travel. Currently in Reno, my dog Smokey lets me and
+my wife live in his house.
 
-I enjoy [coding][coding], [travel][travel] and [music][music]. Most of this
-site contains posts on those categories, but you might find other, random
-topics.
+#### Local Links
 
-## Pages
+- [About][about]: About Me
+- [Blog][blog]: My blog
+- [Hiatus][hiatus]: Took one year off, to travel
+- [Work][work]: My professional experience
 
-- **[About][about]** - About Me
-- **[Blog][blog]** - My blog
-- **[Hiatus][hiatus]** - Took one year off, to travel
-- **[Work][work]** - My professional experience
+#### Remote Links
 
-## External Links
+- [Discogs][discogs]: My record collection
+- [LinkedIn][li]: Connect professionally
+- [Github][github]: Some software contributions
+- [Instagram][thegram]: Pictures, pictures, pictures
+- [Kona House of Palms][kh]: My Hawaii rental property
+- [Sunrise Hale][sh]: My other Hawaii property (condo)
 
-- [LinkedIn](https://linkedin.com/in/bandarji) -- Connect professionally
-- [Github](https://github.com/bandarji) -- Some software contributions
-- [Instagram](https://instagram.com/bandarji) -- Pictures, pictures, pictures
-- [Kona House of Palms](https://konahop.com/) -- My Hawaii rental property
-- [Sunrise Hale](https://sunrisehale.com/) -- My other Hawaii property (condo)
-
-## Additional Information
-
-You have reached the end of this page and possibly the entire Internet.
-
+[sh]: https://sunrisehale.com/
+[kh]: https://konahop.com/
+[thegram]: https://instagram.com/bandarji
+[li]: https://linkedin.com/in/bandarji
+[github]: https://github.com/bandarji
+[discogs]: https://www.discogs.com/user/bandarji/collection
 [about]: /about/
 [blog]: /blog/
 [coding]: /categories/coding/
