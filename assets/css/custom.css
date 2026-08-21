@@ -34,7 +34,7 @@ a:hover {
 }
 
 body {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
   line-height: 1.4;
   color: var(--terminal-green);
   background-color: var(--terminal-black);
