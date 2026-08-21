@@ -29,10 +29,9 @@ permalink: /work/
     background: var(--terminal-panel);
     border: 1px solid var(--terminal-line);
     font-family:
+      "Fira Mono",
       "Courier New",
       Courier,
-      "Lucida Console",
-      Monaco,
       monospace;
     font-size: 15px;
     line-height: 1.55;

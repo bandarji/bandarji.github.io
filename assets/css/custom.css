@@ -34,7 +34,7 @@ a:hover {
 }
 
 body {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
   line-height: 1.4;
   color: var(--terminal-green);
   background-color: var(--terminal-black);
@@ -42,6 +42,54 @@ body {
   padding: 0;
   font-size: 14px;
   min-height: 100vh;
+}
+
+/* CRT snow / scanlines on the default terminal theme only */
+body:not([class*="theme-"]) {
+  background-color: #020302;
+}
+
+.terminal-fx {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.terminal-fx canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0.2;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.terminal-fx::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    repeating-linear-gradient(
+      to bottom,
+      rgba(0, 255, 70, 0.04) 0px,
+      rgba(0, 255, 70, 0.04) 1px,
+      rgba(0, 0, 0, 0.25) 1px,
+      rgba(0, 0, 0, 0.25) 3px
+    ),
+    radial-gradient(ellipse at center, transparent 40%, rgba(0, 0, 0, 0.55) 100%);
+}
+
+body:not([class*="theme-"]) > *:not(.terminal-fx) {
+  position: relative;
+  z-index: 1;
+}
+
+body:not([class*="theme-"]) .site-header,
+body:not([class*="theme-"]) .site-nav,
+body:not([class*="theme-"]) .site-footer {
+  background-color: transparent;
 }
 
 /* Header */
@@ -357,6 +405,31 @@ body {
   margin: 0 auto 1rem auto;
 }
 
+.home-links {
+  border: none;
+  border-collapse: collapse;
+  width: auto;
+  margin: 0 0 1.5rem 0;
+}
+
+.home-links thead {
+  display: none;
+}
+
+.home-links th,
+.home-links td {
+  border: none;
+  background: none;
+  padding: 0.15rem 2rem 0.15rem 0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.home-links td:first-child {
+  white-space: nowrap;
+  padding-right: 2.5rem;
+}
+
 /* Category badges */
 .category-badge {
   display: inline-block;
@@ -402,19 +475,37 @@ body {
   border-bottom: none;
 }
 
-/* Terminal cursor effect - only on home page */
-.home-content::after {
-  content: "_";
-  color: var(--terminal-cursor);
-  animation: blink 1s infinite;
-  font-weight: bold;
+/* Hide home content until the serial typewriter starts (no flash of full text). */
+html.terminal-pending main.site-content,
+html.terminal-pending .site-footer,
+body.is-booting .site-footer {
+  visibility: hidden;
+}
+
+.terminal-cursor {
   display: inline-block;
-  margin-left: 0.2rem;
+  width: 0.7ch;
+  height: 1em;
+  margin-left: 0.1rem;
+  background-color: var(--terminal-cursor);
+  vertical-align: -0.1em;
+  animation: blink 1s step-end infinite;
 }
 
 @keyframes blink {
   0%, 50% { opacity: 1; }
   51%, 100% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.terminal-pending main.site-content,
+  html.terminal-pending .site-footer {
+    visibility: visible;
+  }
+
+  .terminal-cursor {
+    animation: none;
+  }
 }
 
 /* Terminal startup effect */
