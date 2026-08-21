@@ -1,6 +1,7 @@
 ---
 layout: default
 tags: home
+max_width: 800px
 ---
 
 <div class="home-content">
