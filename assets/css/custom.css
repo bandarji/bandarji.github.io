@@ -405,6 +405,31 @@ body:not([class*="theme-"]) .site-footer {
   margin: 0 auto 1rem auto;
 }
 
+.home-links {
+  border: none;
+  border-collapse: collapse;
+  width: auto;
+  margin: 0 0 1.5rem 0;
+}
+
+.home-links thead {
+  display: none;
+}
+
+.home-links th,
+.home-links td {
+  border: none;
+  background: none;
+  padding: 0.15rem 2rem 0.15rem 0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.home-links td:first-child {
+  white-space: nowrap;
+  padding-right: 2.5rem;
+}
+
 /* Category badges */
 .category-badge {
   display: inline-block;

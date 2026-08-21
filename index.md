@@ -9,27 +9,27 @@ terminal: true
 Hello, world!
 </div>
 
-#### Sean Jain Ellis
+**Sean Jain Ellis**
 
 Welcome to my personal site. I write code, listen (mostly) to punk rock
 music and enjoy world travel. Currently in Reno, my dog Smokey lets me and
 my wife live in his house.
 
-#### Local Links
-
-- [About][about]: About Me
-- [Blog][blog]: My blog
-- [Hiatus][hiatus]: Took one year off, to travel
-- [Work][work]: My professional experience
-
-#### Remote Links
-
-- [Discogs][discogs]: My record collection
-- [LinkedIn][li]: Connect professionally
-- [Github][github]: Some software contributions
-- [Instagram][thegram]: Pictures, pictures, pictures
-- [Kona House of Palms][kh]: My Hawaii rental property
-- [Sunrise Hale][sh]: My other Hawaii property (condo)
+| | |
+|:---|:---|
+| **Local Links** | |
+| [About][about] | About Me |
+| [Blog][blog] | My blog |
+| [Hiatus][hiatus] | Took one year off, to travel |
+| [Work][work] | My professional experience |
+| **Remote Links** | |
+| [Discogs][discogs] | My record collection |
+| [LinkedIn][li] | Connect professionally |
+| [Github][github] | Some software contributions |
+| [Instagram][thegram] | Pictures, pictures, pictures |
+| [Kona House of Palms][kh] | My Hawaii rental property |
+| [Sunrise Hale][sh] | My other Hawaii property (condo) |
+{:.home-links}
 
 [sh]: https://sunrisehale.com/
 [kh]: https://konahop.com/
