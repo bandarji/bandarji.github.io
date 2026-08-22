@@ -12,11 +12,13 @@
     return;
   }
 
-  const CHAR_MS = 11;
-  const NEWLINE_MS = 77;
-  const PUNCT_MS = 39;
   const originalHTML = main.innerHTML;
   const source = main.cloneNode(true);
+  const textLen = (source.textContent || "").replace(/\s+/g, " ").trim().length;
+  const longPage = textLen > 2000;
+  const CHAR_MS = longPage ? 3 : 11;
+  const NEWLINE_MS = longPage ? 22 : 77;
+  const PUNCT_MS = longPage ? 10 : 39;
 
   let active = true;
   let finished = false;
