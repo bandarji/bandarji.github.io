@@ -405,6 +405,28 @@ body:not([class*="theme-"]) .site-footer {
   margin: 0 auto 1rem auto;
 }
 
+.lead-content {
+  text-align: left;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.lead-content h1 {
+  color: var(--terminal-green-bright);
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.lead-content p {
+  font-size: 14px;
+  color: var(--terminal-green);
+  max-width: 60ch;
+  margin: 0 0 1rem 0;
+}
+
 .home-links {
   border: none;
   border-collapse: collapse;
@@ -428,6 +450,48 @@ body:not([class*="theme-"]) .site-footer {
 .home-links td:first-child {
   white-space: nowrap;
   padding-right: 2.5rem;
+}
+
+/* Work resume role/date tables */
+.post-content.work-resume {
+  --work-amber: #ffb000;
+}
+
+.post-content.work-resume table {
+  width: 100%;
+  margin: 0.25rem 0 0.85rem;
+  border: none;
+}
+
+.post-content.work-resume table thead {
+  display: none;
+}
+
+.post-content.work-resume th,
+.post-content.work-resume td {
+  border: none;
+  background: none;
+  padding: 0 1ch;
+  vertical-align: top;
+}
+
+.post-content.work-resume th {
+  color: var(--terminal-green-bright);
+}
+
+.post-content.work-resume td {
+  color: var(--work-amber);
+}
+
+.post-content.work-resume td:first-child,
+.post-content.work-resume th:first-child {
+  text-align: left;
+}
+
+.post-content.work-resume td:last-child,
+.post-content.work-resume th:last-child {
+  text-align: right;
+  white-space: nowrap;
 }
 
 /* Category badges */
