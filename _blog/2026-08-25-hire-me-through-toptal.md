@@ -17,5 +17,9 @@ You can hire me through [Toptal][toptal]. I joined their network this summer
 and I look forward to experiencing freelance work. My [work page][work]
 highlights my experience and expertise.
 
+If you would like to explore freelance opportunities, follow
+[this link][referral] for a referral.
+
 [toptal]: https://www.toptal.com/developers/resume/sean-jain-ellis#pYW5ek
 [work]: /work/
+[referral]: https://toptal.com/pYW5ek/worlds-top-talent
