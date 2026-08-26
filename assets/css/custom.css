@@ -666,6 +666,30 @@ body.theme-norway {
   --terminal-cursor: #ba0c2f;
 }
 
+/* Union Jack palette: navy, white, red */
+body.theme-england {
+  --terminal-green: #e8eef8;
+  --terminal-green-dim: #8fa3c9;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #012169;
+  --terminal-black: #000a1f;
+  --terminal-dark-gray: #012169;
+  --terminal-gray: #1a3a7a;
+  --terminal-light-gray: #6b82b5;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #c8102e;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+}
+
+body.theme-england .site-content {
+  max-width: 900px;
+}
+
+body.theme-england .post-content code,
+body.theme-england .post-content pre {
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
