@@ -4,7 +4,7 @@ title: "Selling Punk Duplicates"
 date: 2026-08-17
 categories: [music]
 theme: music
-max_width: 900px
+max_width: 1000px
 excerpt: "Thinning the collection: extra copies of late-70s and early-80s punk."
 ---
 

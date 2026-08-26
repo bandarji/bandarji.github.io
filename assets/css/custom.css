@@ -145,7 +145,7 @@ body:not([class*="theme-"]) .site-footer {
 
 /* Main content */
 .site-content {
-  max-width: 150ch;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 1rem;
 }
@@ -678,16 +678,6 @@ body.theme-england {
   --terminal-light-gray: #6b82b5;
   --terminal-white: #ffffff;
   --terminal-cursor: #c8102e;
-  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
-}
-
-body.theme-england .site-content {
-  max-width: 900px;
-}
-
-body.theme-england .post-content code,
-body.theme-england .post-content pre {
-  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
 }
 
 /* Cherry blossom and water palette (Japan travel posts) */
@@ -702,143 +692,9 @@ body.theme-japan {
   --terminal-light-gray: #5a7a90;
   --terminal-white: #f5e6ea;
   --terminal-cursor: #e891a8;
-  font-family: 'Source Serif 4', 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-  font-size: 18px;
-  line-height: 1.7;
 }
 
-body.theme-japan .site-title,
-body.theme-japan .site-subtitle,
-body.theme-japan .site-nav a,
-body.theme-japan .post-title,
-body.theme-japan .post-content h1,
-body.theme-japan .post-content h2,
-body.theme-japan .post-content h3,
-body.theme-japan .post-content h4,
-body.theme-japan .post-content h5,
-body.theme-japan .post-content h6,
-body.theme-japan .post-navigation a,
-body.theme-japan .category-badge {
-  letter-spacing: 0.03em;
-}
-
-body.theme-japan .post-content {
-  font-size: 1.15rem;
-  line-height: 1.8;
-}
-
-body.theme-japan .post-content code,
-body.theme-japan .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-  font-size: 0.9em;
-}
-
-/* Shared proportional type for travel themes */
-body.theme-africa,
-body.theme-australia,
-body.theme-germany,
-body.theme-netherlands,
-body.theme-norway {
-  font-family: 'Outfit', 'Gill Sans', 'Trebuchet MS', sans-serif;
-  font-size: 16px;
-  line-height: 1.65;
-}
-
-body.theme-africa .site-title,
-body.theme-africa .site-subtitle,
-body.theme-africa .site-nav a,
-body.theme-africa .post-title,
-body.theme-africa .post-content h1,
-body.theme-africa .post-content h2,
-body.theme-africa .post-content h3,
-body.theme-africa .post-content h4,
-body.theme-africa .post-content h5,
-body.theme-africa .post-content h6,
-body.theme-africa .post-navigation a,
-body.theme-africa .category-badge,
-body.theme-australia .site-title,
-body.theme-australia .site-subtitle,
-body.theme-australia .site-nav a,
-body.theme-australia .post-title,
-body.theme-australia .post-content h1,
-body.theme-australia .post-content h2,
-body.theme-australia .post-content h3,
-body.theme-australia .post-content h4,
-body.theme-australia .post-content h5,
-body.theme-australia .post-content h6,
-body.theme-australia .post-navigation a,
-body.theme-australia .category-badge,
-body.theme-germany .site-title,
-body.theme-germany .site-subtitle,
-body.theme-germany .site-nav a,
-body.theme-germany .post-title,
-body.theme-germany .post-content h1,
-body.theme-germany .post-content h2,
-body.theme-germany .post-content h3,
-body.theme-germany .post-content h4,
-body.theme-germany .post-content h5,
-body.theme-germany .post-content h6,
-body.theme-germany .post-navigation a,
-body.theme-germany .category-badge,
-body.theme-netherlands .site-title,
-body.theme-netherlands .site-subtitle,
-body.theme-netherlands .site-nav a,
-body.theme-netherlands .post-title,
-body.theme-netherlands .post-content h1,
-body.theme-netherlands .post-content h2,
-body.theme-netherlands .post-content h3,
-body.theme-netherlands .post-content h4,
-body.theme-netherlands .post-content h5,
-body.theme-netherlands .post-content h6,
-body.theme-netherlands .post-navigation a,
-body.theme-netherlands .category-badge,
-body.theme-norway .site-title,
-body.theme-norway .site-subtitle,
-body.theme-norway .site-nav a,
-body.theme-norway .post-title,
-body.theme-norway .post-content h1,
-body.theme-norway .post-content h2,
-body.theme-norway .post-content h3,
-body.theme-norway .post-content h4,
-body.theme-norway .post-content h5,
-body.theme-norway .post-content h6,
-body.theme-norway .post-navigation a,
-body.theme-norway .category-badge {
-  letter-spacing: 0.04em;
-}
-
-body.theme-africa .post-content,
-body.theme-australia .post-content,
-body.theme-germany .post-content,
-body.theme-netherlands .post-content,
-body.theme-norway .post-content {
-  font-size: 1.05rem;
-  line-height: 1.7;
-}
-
-body.theme-africa .post-content code,
-body.theme-africa .post-content pre,
-body.theme-australia .post-content code,
-body.theme-australia .post-content pre,
-body.theme-germany .post-content code,
-body.theme-germany .post-content pre,
-body.theme-netherlands .post-content code,
-body.theme-netherlands .post-content pre,
-body.theme-norway .post-content code,
-body.theme-norway .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-}
-
-body.theme-germany .site-content,
-body.theme-norway .site-content {
-  max-width: 900px;
-}
-
-body.theme-netherlands .site-content {
-  max-width: 1000px;
-}
-
-/* Music posts: black, white, gray with large generic type */
+/* Music posts: black, white, gray */
 body.theme-music {
   --terminal-green: #d0d0d0;
   --terminal-green-dim: #888888;
@@ -850,35 +706,6 @@ body.theme-music {
   --terminal-light-gray: #666666;
   --terminal-white: #ffffff;
   --terminal-cursor: #aaaaaa;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 20px;
-  line-height: 1.7;
-}
-
-body.theme-music .site-title,
-body.theme-music .site-subtitle,
-body.theme-music .site-nav a,
-body.theme-music .post-title,
-body.theme-music .post-content h1,
-body.theme-music .post-content h2,
-body.theme-music .post-content h3,
-body.theme-music .post-content h4,
-body.theme-music .post-content h5,
-body.theme-music .post-content h6,
-body.theme-music .post-navigation a,
-body.theme-music .category-badge {
-  letter-spacing: 0.03em;
-}
-
-body.theme-music .post-content {
-  font-size: 1.2rem;
-  line-height: 1.8;
-}
-
-body.theme-music .post-content code,
-body.theme-music .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-  font-size: 0.85em;
 }
 
 body.theme-music .post-content table.records-for-sale {
@@ -910,42 +737,9 @@ body.theme-travel {
   --terminal-light-gray: #6a8090;
   --terminal-white: #e8f4f0;
   --terminal-cursor: #c45c3a;
-  font-family: 'Libre Baskerville', 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-  font-size: 16px;
-  line-height: 1.75;
 }
 
-body.theme-travel .site-title,
-body.theme-travel .site-subtitle,
-body.theme-travel .site-nav a,
-body.theme-travel .post-title,
-body.theme-travel .post-content h1,
-body.theme-travel .post-content h2,
-body.theme-travel .post-content h3,
-body.theme-travel .post-content h4,
-body.theme-travel .post-content h5,
-body.theme-travel .post-content h6,
-body.theme-travel .post-navigation a,
-body.theme-travel .category-badge {
-  letter-spacing: 0.02em;
-}
-
-body.theme-travel .site-content {
-  max-width: 1000px;
-}
-
-body.theme-travel .post-content {
-  font-size: 1.05rem;
-  line-height: 1.85;
-}
-
-body.theme-travel .post-content code,
-body.theme-travel .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-  font-size: 0.85em;
-}
-
-/* Hiatus theme: soft sage palette with large type */
+/* Hiatus theme: soft sage palette */
 body.theme-hiatus {
   --terminal-green: #b8c4b0;
   --terminal-green-dim: #8a9682;
@@ -957,39 +751,6 @@ body.theme-hiatus {
   --terminal-light-gray: #6a7068;
   --terminal-white: #f0ebe0;
   --terminal-cursor: #c4a060;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 22px;
-  line-height: 1.75;
-}
-
-body.theme-hiatus .site-title,
-body.theme-hiatus .site-subtitle,
-body.theme-hiatus .site-nav a,
-body.theme-hiatus .post-title,
-body.theme-hiatus .post-content h1,
-body.theme-hiatus .post-content h2,
-body.theme-hiatus .post-content h3,
-body.theme-hiatus .post-content h4,
-body.theme-hiatus .post-content h5,
-body.theme-hiatus .post-content h6,
-body.theme-hiatus .post-navigation a,
-body.theme-hiatus .category-badge {
-  letter-spacing: 0.02em;
-}
-
-body.theme-hiatus .site-content {
-  max-width: 1000px;
-}
-
-body.theme-hiatus .post-content {
-  font-size: 1.25rem;
-  line-height: 1.85;
-}
-
-body.theme-hiatus .post-content code,
-body.theme-hiatus .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-  font-size: 0.85em;
 }
 
 /* Christmas theme: evergreen, holly red, and gold */
@@ -1004,37 +765,25 @@ body.theme-xmas {
   --terminal-light-gray: #5a7060;
   --terminal-white: #f5e6c8;
   --terminal-cursor: #c41e3a;
-  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 20px;
-  line-height: 1.75;
 }
 
-body.theme-xmas .site-title,
-body.theme-xmas .site-subtitle,
-body.theme-xmas .site-nav a,
-body.theme-xmas .post-title,
-body.theme-xmas .post-content h1,
-body.theme-xmas .post-content h2,
-body.theme-xmas .post-content h3,
-body.theme-xmas .post-content h4,
-body.theme-xmas .post-content h5,
-body.theme-xmas .post-content h6,
-body.theme-xmas .post-navigation a,
-body.theme-xmas .category-badge {
-  letter-spacing: 0.03em;
+/* All named themes share the index page type and a 1000px column */
+body[class*="theme-"] {
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+  font-size: 14px;
+  line-height: 1.4;
 }
 
-body.theme-xmas .site-content {
+body[class*="theme-"] .site-content {
   max-width: 1000px;
 }
 
-body.theme-xmas .post-content {
-  font-size: 1.2rem;
-  line-height: 1.85;
+body[class*="theme-"] .post-content {
+  font-size: 14px;
+  line-height: 1.4;
 }
 
-body.theme-xmas .post-content code,
-body.theme-xmas .post-content pre {
-  font-family: 'Courier New', Courier, 'Lucida Console', Monaco, monospace;
-  font-size: 0.85em;
+body[class*="theme-"] .post-content code,
+body[class*="theme-"] .post-content pre {
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
 }
