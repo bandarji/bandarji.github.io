@@ -6,8 +6,6 @@ categories: [coding]
 excerpt: "After a year of travel, joined Toptal."
 ---
 
-# Hire Me Through TopTal
-
 I stepped away from full-time work in mid-2025 and spent a year traveling
 with my wife, visiting family and friends across seventeen countries. That
 chapter complete, I return to the workforce ready to write code, design
