@@ -666,6 +666,20 @@ body.theme-norway {
   --terminal-cursor: #ba0c2f;
 }
 
+/* Nevada flag palette: cobalt blue, silver, gold */
+body.theme-reno {
+  --terminal-green: #d8dde4;
+  --terminal-green-dim: #9aa3ad;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #0033a0;
+  --terminal-black: #000e24;
+  --terminal-dark-gray: #0033a0;
+  --terminal-gray: #1a4a9e;
+  --terminal-light-gray: #7a8aa0;
+  --terminal-white: #e8eaed;
+  --terminal-cursor: #ffd100;
+}
+
 /* Union Jack palette: navy, white, red */
 body.theme-england {
   --terminal-green: #e8eef8;
