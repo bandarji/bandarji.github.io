@@ -20,15 +20,19 @@ traveled to seventeen countries. And, I did things I thought impossible while
 working, such as spending multiple weeks on safari and enjoying a
 transatlantic cruise.
 
-Browse posts by category:
+## Posts By Country
 
-- **[Travel][travel]** — All travel writing from the hiatus and beyond
-- **[Africa][africa]** — South Africa, Zimbabwe, Zambia and Botswana
-- **[Australia][australia]** — Sydney, Adelaide and a drive to Gold Coast
-- **[Japan][japan]** — Shrines, cherry blossoms and record stores
-- **[Germany][germany]** - Ampelmann!
-- **[Netherlands][netherlands]** - Water, water everywhere
-- **[Norway][norway]** - Went as far north as possible
+| | |
+|:---|:---|
+| **[Travel][travel]** | All travel writing from the hiatus and beyond |
+| **[Africa][africa]** | South Africa, Zimbabwe, Zambia and Botswana |
+| **[Australia][australia]** | Sydney, Adelaide and a drive to Gold Coast |
+| **[Japan][japan]** | Shrines, cherry blossoms and record stores |
+| **[Germany][germany]** | Ampelmann! |
+| **[Netherlands][netherlands]** | Water, water everywhere |
+| **[Norway][norway]** | Went as far north as possible |
+| **[England][england]** | Family in London, places to relax in the country |
+{:.home-links}
 
 More posts for Europe coming soon!
 
@@ -38,4 +42,5 @@ More posts for Europe coming soon!
 [japan]: /categories/japan/
 [germany]: /categories/germany/
 [netherlands]: /categories/netherlands/
-[norway]: /categories/norway.md
+[norway]: /categories/norway/
+[england]: /categories/england/
