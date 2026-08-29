@@ -17,6 +17,10 @@ It rained off and on for much of the week, which just made us slow down and
 enjoy the space. Ducks would camp out on our deck every afternoon, something
 fun to watch.
 
+![][ducks]
+
+The ducks came by every afternoon, maybe just to check in on us.
+
 ![][river]
 
 We had family come stay a couple of nights with us. Turned out fun to work on
@@ -28,8 +32,7 @@ from writing code, we all went out for a beer by the Thames river.
 Also in the community, they have a very nice pool and workout facility. The
 indoor pool has a nice view of the surrounding grounds.
 
-
-
+[ducks]: https://bandarji.com/images/sjeblog-cotswolds-ducks.jpg
 [house]: https://bandarji.com/images/sjeblog-cotswolds-house.jpeg
 [pool]: https://bandarji.com/images/sjeblog-cotswolds-pool.jpeg
 [river]: https://bandarji.com/images/sjeblog-cotswolds-thames.jpeg
