@@ -22,6 +22,7 @@ my wife live in his house.
 | [Blog][blog] | My blog |
 | [Hiatus][hiatus] | Took one year off, to travel |
 | [Work][work] | My professional experience |
+| | |
 | **Remote Links** | |
 | [Discogs][discogs] | My record collection |
 | [LinkedIn][li] | Connect professionally |
@@ -30,6 +31,8 @@ my wife live in his house.
 | [Kona House of Palms][kh] | My Hawaii rental property |
 | [Sunrise Hale][sh] | My other Hawaii property (condo) |
 {:.home-links}
+
+**END OF LINE**
 
 [sh]: https://sunrisehale.com/
 [kh]: https://konahop.com/
