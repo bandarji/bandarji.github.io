@@ -32,6 +32,7 @@ transatlantic cruise.
 | **[Netherlands][netherlands]** | Water, water everywhere |
 | **[Norway][norway]** | Went as far north as possible |
 | **[England][england]** | Family in London, places to relax in the country |
+| **[Wales][wales]** | The only dragon spotted was on their flag |
 {:.home-links}
 
 More posts for Europe coming soon!
@@ -44,3 +45,4 @@ More posts for Europe coming soon!
 [netherlands]: /categories/netherlands/
 [norway]: /categories/norway/
 [england]: /categories/england/
+[wales]: /categories/wales/
