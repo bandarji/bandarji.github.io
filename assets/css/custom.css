@@ -694,6 +694,25 @@ body.theme-england {
   --terminal-cursor: #c8102e;
 }
 
+/* Welsh flag palette: green, white, dragon red */
+body.theme-wales {
+  --terminal-green: #e8f6ec;
+  --terminal-green-dim: #7aab88;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #007a28;
+  --terminal-black: #05140a;
+  --terminal-dark-gray: #0c2814;
+  --terminal-gray: #165c2e;
+  --terminal-light-gray: #5a8a6a;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #c8102e;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+}
+
+body.theme-wales .site-content {
+  max-width: 1000px;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
