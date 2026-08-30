@@ -10,6 +10,8 @@ dev: ## Start a development git branch
 	@git checkout -b dev
 
 pr: ## Create a pull request
+	@git add -A
+	@git commit -m "chore: unknown update"
 	@git push -u origin dev
 
 site: ## Deploy a local service
