@@ -2,6 +2,7 @@
 layout: category
 title: "Travel"
 category: travel
+theme: travel
 permalink: /categories/travel/
 ---
 
