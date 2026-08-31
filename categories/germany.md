@@ -2,6 +2,7 @@
 layout: category
 title: "Germany"
 category: germany
+theme: germany
 permalink: /categories/germany/
 ---
 

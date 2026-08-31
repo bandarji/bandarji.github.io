@@ -2,6 +2,7 @@
 layout: category
 title: "Australia"
 category: australia
+theme: australia
 permalink: /categories/australia/
 ---
 

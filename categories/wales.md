@@ -2,6 +2,7 @@
 layout: category
 title: "Wales"
 category: wales
+theme: wales
 permalink: /categories/wales/
 ---
 

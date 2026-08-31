@@ -33,6 +33,7 @@ transatlantic cruise.
 | **[Norway][norway]** | Went as far north as possible |
 | **[England][england]** | Family in London, places to relax in the country |
 | **[Wales][wales]** | The only dragon spotted was on their flag |
+| **[Greece][greece]** | One week with family on the island of Kos |
 {:.home-links}
 
 More posts for Europe coming soon!
@@ -46,3 +47,4 @@ More posts for Europe coming soon!
 [norway]: /categories/norway/
 [england]: /categories/england/
 [wales]: /categories/wales/
+[greece]: /categories/greece/

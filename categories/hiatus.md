@@ -2,6 +2,7 @@
 layout: category
 title: "Hiatus"
 category: hiatus
+theme: hiatus
 permalink: /categories/hiatus/
 ---
 

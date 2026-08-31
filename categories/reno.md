@@ -2,6 +2,7 @@
 layout: category
 title: "Reno"
 category: reno
+theme: reno
 permalink: /categories/reno/
 ---
 

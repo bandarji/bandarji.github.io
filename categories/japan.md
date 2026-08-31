@@ -2,6 +2,7 @@
 layout: category
 title: "Japan"
 category: japan
+theme: japan
 permalink: /categories/japan/
 ---
 
