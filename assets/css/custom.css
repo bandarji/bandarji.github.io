@@ -694,6 +694,25 @@ body.theme-england {
   --terminal-cursor: #c8102e;
 }
 
+/* Greek flag palette: blue, white */
+body.theme-greece {
+  --terminal-green: #d6eaf8;
+  --terminal-green-dim: #7aadd4;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #0d5eaf;
+  --terminal-black: #041830;
+  --terminal-dark-gray: #0a3068;
+  --terminal-gray: #0d5eaf;
+  --terminal-light-gray: #5a8ec4;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ffffff;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+}
+
+body.theme-greece .site-content {
+  max-width: 1000px;
+}
+
 /* Welsh flag palette: green, white, dragon red */
 body.theme-wales {
   --terminal-green: #e8f6ec;
