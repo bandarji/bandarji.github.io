@@ -15,10 +15,9 @@ point in his career, he spent two years unemployed and found that time a great
 reset.
 
 So, I did something similar. In mid-2025, I stepped away from my job and
-planned to meet with family and friends around the globe. My wife and I
-traveled to seventeen countries. And, I did things I thought impossible while
-working, such as spending multiple weeks on safari and enjoying a
-transatlantic cruise.
+planned to meet with family and friends around the globe. I did things I
+thought impossible while working, such as spending multiple weeks on safari
+and enjoying a transatlantic cruise.
 
 ## Posts By Country
 
@@ -34,9 +33,14 @@ transatlantic cruise.
 | **[England][england]** | Family in London, places to relax in the country |
 | **[Wales][wales]** | The only dragon spotted was on their flag |
 | **[Greece][greece]** | One week with family on the island of Kos |
+| **Scotland** | In search of soup |
+| **Ireland** | Dublin my desire to stay here |
+| **Northern Ireland** | Back in the UK  |
+| **Iceland** | Revisited, after driving the island in 2018 |
+| **Canada** | Celebrated the country's birthday in Halifax |
 {:.home-links}
 
-More posts for Europe coming soon!
+I plan to get blog posts for the remaining countries soon.
 
 [travel]: /categories/travel/
 [africa]: /categories/africa/
