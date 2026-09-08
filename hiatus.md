@@ -33,7 +33,7 @@ and enjoying a transatlantic cruise.
 | **[England][england]** | Family in London, places to relax in the country |
 | **[Wales][wales]** | The only dragon spotted was on their flag |
 | **[Greece][greece]** | One week with family on the island of Kos |
-| **Scotland** | In search of soup |
+| **[Scotland][scotland]** | In search of soup |
 | **Ireland** | Dublin my desire to stay here |
 | **Northern Ireland** | Back in the UK  |
 | **Iceland** | Revisited, after driving the island in 2018 |
@@ -52,3 +52,4 @@ I plan to get blog posts for the remaining countries soon.
 [england]: /categories/england/
 [wales]: /categories/wales/
 [greece]: /categories/greece/
+[scotland]: /categories/scotland/
