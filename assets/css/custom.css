@@ -732,6 +732,25 @@ body.theme-wales .site-content {
   max-width: 1000px;
 }
 
+/* Scottish Saltire palette: Pantone 300 blue, white */
+body.theme-scotland {
+  --terminal-green: #ffffff;
+  --terminal-green-dim: #b8d8f5;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #003e7a;
+  --terminal-black: #005eb8;
+  --terminal-dark-gray: #004c96;
+  --terminal-gray: #3d8fd0;
+  --terminal-light-gray: #7ab8e0;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ffffff;
+  font-family: 'Fira Mono', 'Courier New', Courier, monospace;
+}
+
+body.theme-scotland .site-content {
+  max-width: 1000px;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
