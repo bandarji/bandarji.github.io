@@ -211,6 +211,18 @@ body:not([class*="theme-"]) .site-footer {
   border: 1px solid var(--terminal-green);
 }
 
+.post-content .table-scroll {
+  overflow-x: auto;
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+.post-content .table-scroll table {
+  width: max-content;
+  min-width: 100%;
+  margin: 0;
+}
+
 .post-content th,
 .post-content td {
   border: 1px solid var(--terminal-green);
@@ -326,6 +338,22 @@ body:not([class*="theme-"]) .site-footer {
   padding: 0;
   color: var(--terminal-green);
   border: none;
+}
+
+/* ASCII talk slides: a frame is about 173 columns, so shrink it into the column */
+.post-content .slide {
+  margin: 1.5rem 0;
+}
+
+.post-content .slide pre {
+  margin: 0;
+  font-size: 8.5px;
+  line-height: 1.15;
+}
+
+.post-content .slide pre code {
+  font-size: 8.5px;
+  line-height: 1.15;
 }
 
 /* Footer */
