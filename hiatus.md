@@ -24,7 +24,11 @@ and enjoying a transatlantic cruise.
 | | |
 |:---|:---|
 | **[Travel][travel]** | All travel writing from the hiatus and beyond |
-| **[Africa][africa]** | South Africa, Zimbabwe, Zambia and Botswana |
+| **Mexico** | Enjoyed Cabo poolside |
+| **[South Africa][south-africa]** | Revisted Cape Town after sixteen years |
+| **[Zimbabwe][zimbabwe]** | Zim zim! (cheers) |
+| **[Zambia][zambia]** | Wait, cheers here is not 'zam zam'? |
+| **[Botswana][botswana]** | I apologize for butchering Setswana |
 | **[Australia][australia]** | Sydney, Adelaide and a drive to Gold Coast |
 | **[Japan][japan]** | Shrines, cherry blossoms and record stores |
 | **[Germany][germany]** | Ampelmann! |
@@ -44,6 +48,10 @@ I plan to get blog posts for the remaining countries soon.
 
 [travel]: /categories/travel/
 [africa]: /categories/africa/
+[south-africa]: /categories/south-africa/
+[zimbabwe]: /categories/zimbabwe/
+[zambia]: /categories/zambia/
+[botswana]: /categories/botswana/
 [australia]: /categories/australia/
 [japan]: /categories/japan/
 [germany]: /categories/germany/
