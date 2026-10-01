@@ -2,7 +2,7 @@
 layout: post
 title: "Victoria Falls"
 date: 2025-12-19
-categories: [travel, africa]
+categories: [travel, africa, zambia, zimbabwe]
 theme: africa
 excerpt: "Mosi-Oa-Tunya"
 ---
