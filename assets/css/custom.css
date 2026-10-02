@@ -779,6 +779,28 @@ body.theme-scotland .site-content {
   max-width: 1000px;
 }
 
+/* Mexican flag palette: green, white, red */
+body.theme-mexico {
+  --terminal-green: #ffffff;
+  --terminal-green-dim: #d7efe4;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #004d34;
+  --terminal-black: #006847;
+  --terminal-dark-gray: #00553a;
+  --terminal-gray: #1a8060;
+  --terminal-light-gray: #8ecfb0;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ce1126;
+}
+
+body.theme-mexico .site-nav,
+body.theme-mexico .post-header,
+body.theme-mexico .post-navigation,
+body.theme-mexico .site-footer,
+body.theme-mexico .category-page h1 {
+  border-color: #ce1126;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
