@@ -24,7 +24,7 @@ and enjoying a transatlantic cruise.
 | | |
 |:---|:---|
 | **[Travel][travel]** | All travel writing from the hiatus and beyond |
-| **Mexico** | Enjoyed Cabo poolside |
+| **[Mexico][mexico]** | Enjoyed Cabo poolside |
 | **[South Africa][south-africa]** | Revisted Cape Town after sixteen years |
 | **[Zimbabwe][zimbabwe]** | Zim zim! (cheers) |
 | **[Zambia][zambia]** | Wait, cheers here is not 'zam zam'? |
@@ -61,3 +61,4 @@ I plan to get blog posts for the remaining countries soon.
 [wales]: /categories/wales/
 [greece]: /categories/greece/
 [scotland]: /categories/scotland/
+[mexico]: /categories/mexico/
