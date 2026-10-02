@@ -779,6 +779,50 @@ body.theme-scotland .site-content {
   max-width: 1000px;
 }
 
+/* Irish flag palette: green, white, orange */
+body.theme-ireland {
+  --terminal-green: #ffffff;
+  --terminal-green-dim: #c8e6d4;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #169b62;
+  --terminal-black: #062818;
+  --terminal-dark-gray: #0c3d24;
+  --terminal-gray: #169b62;
+  --terminal-light-gray: #7dba96;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ff883e;
+}
+
+body.theme-ireland .site-nav,
+body.theme-ireland .post-header,
+body.theme-ireland .post-navigation,
+body.theme-ireland .site-footer,
+body.theme-ireland .category-page h1 {
+  border-color: #ff883e;
+}
+
+/* Eddie Izzard's 2009 marathon flag: dark green field, white peace dove */
+body.theme-northern-ireland {
+  --terminal-green: #ffffff;
+  --terminal-green-dim: #c8d4c8;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #001a00;
+  --terminal-black: #003300;
+  --terminal-dark-gray: #002600;
+  --terminal-gray: #0d4d0d;
+  --terminal-light-gray: #6a9a6a;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ffffff;
+}
+
+body.theme-northern-ireland .site-nav,
+body.theme-northern-ireland .post-header,
+body.theme-northern-ireland .post-navigation,
+body.theme-northern-ireland .site-footer,
+body.theme-northern-ireland .category-page h1 {
+  border-color: #ffffff;
+}
+
 /* Mexican flag palette: green, white, red */
 body.theme-mexico {
   --terminal-green: #ffffff;
