@@ -40,6 +40,7 @@ and enjoying a transatlantic cruise.
 | **[Scotland][scotland]** | In search of soup |
 | **[Ireland][ireland]** | Dublin my desire to stay here |
 | **[Northern Ireland][northern-ireland]** | Back in the UK  |
+| **Denmark** | High winds made us skip our Faroe Islands stop 😢 |
 | **Iceland** | Revisited, after driving the island in 2018 |
 | **Canada** | Celebrated the country's birthday in Halifax |
 {:.home-links}
