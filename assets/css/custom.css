@@ -694,6 +694,28 @@ body.theme-norway {
   --terminal-cursor: #ba0c2f;
 }
 
+/* Icelandic flag, inverted: snow-white field, sky blue #02529C, fire red #DC1E35 */
+body.theme-iceland {
+  --terminal-green: #02529c;
+  --terminal-green-dim: #3a6896;
+  --terminal-green-bright: #02529c;
+  --terminal-green-dark: #01356a;
+  --terminal-black: #ffffff;
+  --terminal-dark-gray: #e7eef6;
+  --terminal-gray: #b7c9dc;
+  --terminal-light-gray: #6d92b4;
+  --terminal-white: #02529c;
+  --terminal-cursor: #dc1e35;
+}
+
+body.theme-iceland .site-nav,
+body.theme-iceland .post-header,
+body.theme-iceland .post-navigation,
+body.theme-iceland .site-footer,
+body.theme-iceland .category-page h1 {
+  border-color: #dc1e35;
+}
+
 /* Nevada flag palette: cobalt blue, silver, gold */
 body.theme-reno {
   --terminal-green: #d8dde4;
