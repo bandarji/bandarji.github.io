@@ -867,6 +867,28 @@ body.theme-mexico .category-page h1 {
   border-color: #ce1126;
 }
 
+/* Canadian flag palette: FIP red #EB2D37 (Pantone 032), white */
+body.theme-canada {
+  --terminal-green: #ffffff;
+  --terminal-green-dim: #ffe4e6;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #8f1520;
+  --terminal-black: #eb2d37;
+  --terminal-dark-gray: #c41e2a;
+  --terminal-gray: #f07078;
+  --terminal-light-gray: #ffc4c8;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #ffffff;
+}
+
+body.theme-canada .site-nav,
+body.theme-canada .post-header,
+body.theme-canada .post-navigation,
+body.theme-canada .site-footer,
+body.theme-canada .category-page h1 {
+  border-color: #ffffff;
+}
+
 /* Cherry blossom and water palette (Japan travel posts) */
 body.theme-japan {
   --terminal-green: #c5d9e8;
