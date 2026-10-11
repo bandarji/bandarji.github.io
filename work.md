@@ -3,7 +3,7 @@ layout: default
 tags: work
 permalink: /work/
 max_width: 1000px
-terminal: true
+terminal: false
 ---
 
 <div class="lead-content">
@@ -207,25 +207,26 @@ Specialist (ASE)
 
 ## Other
 
+- **/dev/reno:** Presenter, *Call Go Functions From Python*, 2026
 - **Kona House of Palms and Sunrise Hale:** Owner of short-term vacation
 rentals, 2018 - Present
 - **Puu Lani Ranch HOA:** Board member and Website Administrator, 2021 -
 2023
-- **Twitter University:** Instructor, Go, 2019 - 2022
-- **Twitter University:** Instructor, Python and the Twitter Build System,
+- **Twitter University:** Instructor, *Go*, 2019 - 2022
+- **Twitter University:** Instructor, *Python and the Twitter Build System*,
 2018 - 2022
 - **San Francisco Site Reliability Engineering Meetup:** Coordinator, 2018 -
 2020
-- **DreamWorks:** Technical Achievement Award, Managed Tiered Proxy
-Architecture, 2014
-- **DreamWorks:** Technical Achievement Award, Production Asset Manager,
+- **DreamWorks:** Technical Achievement Award,
+*Managed Tiered Proxy Architecture*, 2014
+- **DreamWorks:** Technical Achievement Award, *Production Asset Manager*,
 2014
 - **Home of Hope:** Technology Coordinator, 2012 - 2018
-- **Large Scale Production Engineers:** Presenter, Anycast Service
-Redundancy and Traffic Balancing, 2012
-- **Aloe Software:** Co-Founder for a public school student management SaaS,
-2000
-- **VALUE (Victoria Area Linux and Unix Enterprises):** Presenter, The
-Slackware RPM, 1998
+- **Large Scale Production Engineers:** Presenter,
+*Anycast Service Redundancy and Traffic Balancing*, 2012
+- **Aloe Software:** Co-Founder for a public school student management SaaS
+company, 2000
+- **VALUE (Victoria Area Linux and Unix Enthusiasts):** Presenter,
+*The Slackware RPM*, 1998
 
 </div>
