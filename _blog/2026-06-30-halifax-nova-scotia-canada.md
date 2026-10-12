@@ -72,52 +72,6 @@ served as a prison for Acadians, during the multi-year war to remove French
 colonists from the area. These days, people take ferries to the island to
 enjoy nature, have picnics and visit Fort Charlotte.
 
-# Day Two
-
-Oh, yeah, our propulsion system failed and we ended up stuck in Halifax for
-a second day. This changed our USA coastal stops, skipping New York and
-Charleston. Instead, we visited Boston.
-
-The second day in Halifax gave us time to hang out at the boardwalk. We got
-to celebrate Canada Day with locals.
-
-**We Love Bikes**
-
-![][p6]
-
-Spotted this colorful and cool bicycle rental shop near the boardwalk.
-
-**Wireframe Ship**
-
-![][p5]
-
-Called the *Ghost Ship*, this wire mesh sculpture rises more than twenty feet
-above the boardwalk. Lights in the base make the artwork's sailing ship pop
-[at night][san].
-
-**Links To Norway**
-
-![][p2]
-
-The Norwegian memorial stone at Sackville Landing commemorates WWII sailors.
-The face models after a similar stone in Larvik, Norway. The back names 30
-Norwegian men buried in Nova Scotian cemetaries.
-
-> Norway\
-> \
-> In memory of members of\
-> the Norwegian Merchant Navy,\
-> Royal Norwegian Navy\
-> and Royal Norwegian Army\
-> who were lost at sea or were buried\
-> in Nova Scotia during the Second World War\
-> \
-> We Will Remember them
-
-**Pilot Boat Sees Us Off**
-
-![][p3]
-
 [hsfm]: https://halifaxfarmersmarket.com/
 [cf]: https://youtu.be/qvARRORlR0c
 [dl]: https://www.locationscout.net/canada/23856-drunken-lampposts-wharf-area-halifax-nova-scotia
