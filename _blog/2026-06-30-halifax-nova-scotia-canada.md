@@ -18,6 +18,33 @@ Los Angeles, the city has a longer name, though no one uses it. Officially,
 that's Halifax Regional Municipality, and kind of like LA, it refers to a
 region in addition to an actual city.
 
+Fun facts:
+
+- The city hires trained falcons to keep seagulls from pestering boardwalk
+visitors.
+- The donair, a take on the döner kebab, originated in Halifax. Created by
+Velos Pizza in 1971, this version of the Middle Eastern sandwich featured a
+sweet sauce made with condensed milk, sugar, garlic and vinegar. In 1973,
+[King of Donair][kod] popularlized their version of the handheld meal and it
+eventually became the offical food of Halifax.
+- Canada had a 999-year lease for [Point Pleasant Park][ppp], paying the
+British government one shilling annually. At some point, ownership transferred
+to Canada. In 1994, a pipe bomb was discovered in a park trash can and defused
+by police. The *Loki 7* terrorist group claimed responsibility, but that group
+turned out to be a single person. School teacher Roger Bell planted several
+bombs between 1988 and 1996, stating his motive was "revenge at society."
+- Two ships collided in 1917. The resulting [explosion][e] destroyed much of
+the nortern part of Halifax. Until the advent of atomic weaponry, this marked
+the largest manmade explosion, equivalent to 2.9 kilotons of TNT.
+- The [Halifax Seaport Farmers' Market][hsfm] has operated continuously
+since 1750, making it North America's oldest.
+- A [cannon fires][cf] from Halifax Citadel, at noon, daily. This helps people
+set their timepieces, supposedly. It has fired daily since 1857.
+- A city with a high number of pubs per capita, Halifax has
+[drunken lampposts][dl]. A quirky artwork at Bishop's Landing has one
+lamppost lying on the boardwalk and another that pukes (sprays water) into
+the harbor.
+
 Rather than hanging out at the boardwalk, near the ship terminal, we rented
 a car to explore the countryside. Did not take many photos because it rained
 most of the day.
@@ -91,6 +118,11 @@ Norwegian men buried in Nova Scotian cemetaries.
 
 ![][p3]
 
+[hsfm]: https://halifaxfarmersmarket.com/
+[cf]: https://youtu.be/qvARRORlR0c
+[dl]: https://www.locationscout.net/canada/23856-drunken-lampposts-wharf-area-halifax-nova-scotia
+[e]: https://en.wikipedia.org/wiki/Halifax_Explosion
+[kod]: https://www.kingofdonair.ca/
 [san]: https://www.instagram.com/p/DV0sAgllNz5/
 [p1]: https://bandarji.com/images/sjeblog-ca-halifax-island.jpg
 [p2]: https://bandarji.com/images/sjeblog-ca-halifax-norway.jpg
