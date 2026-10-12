@@ -18,7 +18,7 @@ Los Angeles, the city has a longer name, though no one uses it. Officially,
 that's Halifax Regional Municipality, and kind of like LA, it refers to a
 region in addition to an actual city.
 
-Fun facts:
+**Some Interesting HaliFacts**
 
 - The city hires trained falcons to keep seagulls from pestering boardwalk
 visitors.
@@ -49,7 +49,7 @@ Rather than hanging out at the boardwalk, near the ship terminal, we rented
 a car to explore the countryside. Did not take many photos because it rained
 most of the day.
 
-*Three Churches*
+**Three Churches**
 
 ![][p4]
 
@@ -63,7 +63,7 @@ in 1885. The Anglican services started in their church by 1887. In 1925, the
 Methodist and Presbyterian congregations, well, congregated, with the combined
 churched named Trinity United. Today, the three make for a nice photo.
 
-*George's Island*
+**George's Island**
 
 ![][p1]
 
@@ -81,13 +81,13 @@ Charleston. Instead, we visited Boston.
 The second day in Halifax gave us time to hang out at the boardwalk. We got
 to celebrate Canada Day with locals.
 
-*We Love Bikes*
+**We Love Bikes**
 
 ![][p6]
 
 Spotted this colorful and cool bicycle rental shop near the boardwalk.
 
-*Wirefram Ship*
+**Wireframe Ship**
 
 ![][p5]
 
@@ -95,7 +95,7 @@ Called the *Ghost Ship*, this wire mesh sculpture rises more than twenty feet
 above the boardwalk. Lights in the base make the artwork's sailing ship pop
 [at night][san].
 
-*Links To Norway*
+**Links To Norway**
 
 ![][p2]
 
@@ -114,7 +114,7 @@ Norwegian men buried in Nova Scotian cemetaries.
 > \
 > We Will Remember them
 
-*Pilot Boat Sees Us Off*
+**Pilot Boat Sees Us Off**
 
 ![][p3]
 
