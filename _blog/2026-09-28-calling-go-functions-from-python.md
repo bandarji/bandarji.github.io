@@ -224,8 +224,8 @@ another talk on a different topic at some point in the near future.
 
 [dr]: https://www.meetup.com/dev-reno/
 [repo]: https://github.com/bandarji/import-go-from-python
-[slidemd]: https://github.com/bandarji/import-go-from-python/blob/main/DEVRENOSLIDES.md
-[readme]: https://github.com/bandarji/import-go-from-python/blob/main/README.md
+[slidemd]: https://github.com/bandarji/import-go-from-python/blob/main/00-presentations/DEVRENOSLIDES.md
+[readme]: https://github.com/bandarji/import-go-from-python/blob/main/01-poc/README.md
 [presentation]: https://docs.google.com/presentation/d/1b6v49vVIAyuZa3kUWfpnX1G3Lo9DH0yu5STnj1W9Ymc/
 [ctypes]: https://docs.python.org/3/library/ctypes.html
 [wwwuv]: https://docs.astral.sh/uv/getting-started/installation/
