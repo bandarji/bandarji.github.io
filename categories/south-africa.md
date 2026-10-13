@@ -2,7 +2,7 @@
 layout: category
 title: "South Africa"
 category: south-africa
-theme: africa
+theme: south-africa
 permalink: /categories/south-africa/
 ---
 

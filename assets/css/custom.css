@@ -638,6 +638,93 @@ body.theme-africa {
   --terminal-cursor: #e85d04;
 }
 
+/* South African flag: green #007A4D, gold #FFB612, chilli red #DE3831, blue #002395, black, white */
+body.theme-south-africa {
+  --terminal-green: #ffb612;
+  --terminal-green-dim: #e0a010;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #007a4d;
+  --terminal-black: #00102e;
+  --terminal-dark-gray: #001a4d;
+  --terminal-gray: #007a4d;
+  --terminal-light-gray: #8aa0d4;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #de3831;
+}
+
+body.theme-south-africa .site-nav,
+body.theme-south-africa .post-header,
+body.theme-south-africa .post-navigation,
+body.theme-south-africa .site-footer,
+body.theme-south-africa .category-page h1 {
+  border-color: #de3831;
+}
+
+/* Zambian flag: green #147F55, red #D40829, black, copper orange #F99815 */
+body.theme-zambia {
+  --terminal-green: #f99815;
+  --terminal-green-dim: #e09020;
+  --terminal-green-bright: #ffd090;
+  --terminal-green-dark: #a35c08;
+  --terminal-black: #071f16;
+  --terminal-dark-gray: #0c3022;
+  --terminal-gray: #147f55;
+  --terminal-light-gray: #6aab88;
+  --terminal-white: #fff8ee;
+  --terminal-cursor: #d40829;
+}
+
+body.theme-zambia .site-nav,
+body.theme-zambia .post-header,
+body.theme-zambia .post-navigation,
+body.theme-zambia .site-footer,
+body.theme-zambia .category-page h1 {
+  border-color: #d40829;
+}
+
+/* Zimbabwean flag: green #006400, yellow #FFD300, red #D50000, black, white */
+body.theme-zimbabwe {
+  --terminal-green: #ffd300;
+  --terminal-green-dim: #e6c200;
+  --terminal-green-bright: #ffffff;
+  --terminal-green-dark: #003800;
+  --terminal-black: #004a00;
+  --terminal-dark-gray: #006400;
+  --terminal-gray: #b7e0a8;
+  --terminal-light-gray: #d4f0c8;
+  --terminal-white: #ffffff;
+  --terminal-cursor: #d50000;
+}
+
+/* Botswana flag: azure #6DA9D2 (Pantone 15-4225 TCX), white, black */
+body.theme-botswana {
+  --terminal-green: #000000;
+  --terminal-green-dim: #142028;
+  --terminal-green-bright: #000000;
+  --terminal-green-dark: #000000;
+  --terminal-black: #6da9d2;
+  --terminal-dark-gray: #ffffff;
+  --terminal-gray: #000000;
+  --terminal-light-gray: #1a2830;
+  --terminal-white: #000000;
+  --terminal-cursor: #000000;
+}
+
+body.theme-botswana .site-nav,
+body.theme-botswana .site-footer {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #ffffff;
+  border-top: 3px solid #ffffff;
+  border-bottom: 3px solid #ffffff;
+}
+
+body.theme-botswana .site-nav a,
+body.theme-botswana .site-footer,
+body.theme-botswana .site-footer p {
+  color: #ffffff !important;
+}
+
 /* Australian flag palette: navy, red, white */
 body.theme-australia {
   --terminal-green: #d6e0f5;

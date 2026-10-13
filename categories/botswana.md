@@ -2,7 +2,7 @@
 layout: category
 title: "Botswana"
 category: botswana
-theme: africa
+theme: botswana
 permalink: /categories/botswana/
 ---
 

@@ -2,7 +2,7 @@
 layout: category
 title: "Zambia"
 category: zambia
-theme: africa
+theme: zambia
 permalink: /categories/zambia/
 ---
 

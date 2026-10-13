@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Stellenbosch"
-date: 2025-11-25
+date: 2025-11-27
 categories: [travel, africa, south-africa]
-theme: africa
+theme: south-africa
 excerpt: "Everyone needs a few days in the South Africa Wine Country."
 ---
 
@@ -12,7 +12,7 @@ a place called Sylvan Vale Vineyards. The wine country, all of the little
 towns and rolling hills, remains one of the most scenic drives I have
 ever experienced.
 
-## Sylvan Value Part Deux
+## Sylvan Vale Part Deux
 
 It took us a bit of time to find the place Anjali and I had stayed at
 sixteen years prior, but worth it. We enjoyed the grounds and a very nice
