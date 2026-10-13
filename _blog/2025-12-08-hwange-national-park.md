@@ -3,7 +3,7 @@ layout: post
 title: "Hwange National Park"
 date: 2025-12-08
 categories: [travel, africa, zimbabwe]
-theme: africa
+theme: zimbabwe
 excerpt: "Hwange National Park, Zimbabwe"
 ---
 

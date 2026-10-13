@@ -16,11 +16,12 @@ planned to meet with family and friends around the globe. I did things I
 thought impossible while working, such as spending multiple weeks on safari
 and enjoying a transatlantic cruise.
 
-## Posts By Country
+## Hiatus Posts By Country
 
 | | |
 |:---|:---|
 | **[Travel][travel]** | All travel writing from the hiatus and beyond |
+| | |
 | **[Mexico][mexico]** | Enjoyed Cabo poolside |
 | **[South Africa][south-africa]** | Revisted Cape Town after sixteen years |
 | **[Zimbabwe][zimbabwe]** | Zim zim! (cheers) |
