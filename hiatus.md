@@ -7,12 +7,9 @@ permalink: /hiatus/
 
 # Hiatus
 
-A good friend of mine took time off from work every seven (or so) years. He
-used to work for a company with a sabbatical program, so after seven years he
-would step away from work for six months. Though later, he worked for a
-company without that program and thought, "Why not self-fund that?" At one
-point in his career, he spent two years unemployed and found that time a great
-reset.
+From a good friend I learned the value of a sabbatical program. Discussing
+various gaps in his employment over the years, I learned that he self-funded
+a few of those non-working windows. Thinking about it, I thought, "Why not?"
 
 So, I did something similar. In mid-2025, I stepped away from my job and
 planned to meet with family and friends around the globe. I did things I
@@ -44,8 +41,6 @@ and enjoying a transatlantic cruise.
 | **[Iceland][iceland]** | Revisited, after driving the island in 2018 |
 | **[Canada][canada]** | Celebrated the country's birthday in Halifax |
 {:.home-links}
-
-I plan to get blog posts for the remaining countries soon.
 
 [travel]: /categories/travel/
 [africa]: /categories/africa/
