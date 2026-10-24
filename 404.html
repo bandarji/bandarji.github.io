@@ -1,0 +1,8 @@
+---
+layout: default
+tags: home
+max_width: 1000px
+permalink: /404.html
+---
+{% assign home = site.pages | where: "path", "index.md" | first %}
+{{ home.content | markdownify }}
