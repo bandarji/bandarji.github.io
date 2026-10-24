@@ -4,7 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-{% assign category_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category != 'africa' and item.category != 'travel' and item.category != 'coding' and item.category != 'hiatus' and item.category != 'reno' and item.category != 'music'" | sort: "title" %}
+# Blog Post Categories
+
+{% assign category_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category != 'africa'" | where_exp: "item", "item.category != 'travel'" | where_exp: "item", "item.category != 'coding'" | where_exp: "item", "item.category != 'hiatus'" | where_exp: "item", "item.category != 'reno'" | where_exp: "item", "item.category != 'music'" | sort: "title" %}
 {% if category_pages.size > 0 %}
 {% assign count = category_pages.size %}
 {% assign columns = count %}
@@ -62,7 +64,10 @@ permalink: /blog/
       </tr>
     {% endfor %}
     </table>
-  {% assign other_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'coding' or item.category == 'music' or item.category == 'reno'" | sort: "title" %}
+  {% assign coding_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'coding'" %}
+  {% assign music_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'music'" %}
+  {% assign reno_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'reno'" %}
+  {% assign other_pages = coding_pages | concat: music_pages | concat: reno_pages | sort: "title" %}
   {% if other_pages.size > 0 %}
   <div class="other-categories">
     <h2>Other Blog Categories</h2>
@@ -76,8 +81,10 @@ permalink: /blog/
 </nav>
 {% endif %}
 
+# Ten Latest Blog Posts
+
 {% assign blog_posts = site.blog | sort: 'date' | reverse %}
-{% for post in blog_posts %}
+{% for post in blog_posts limit: 10 %}
 <article class="post-preview">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-meta">
