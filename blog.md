@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-{% assign category_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category != 'africa' and item.category != 'travel' and item.category != 'coding' and item.category != 'music'" | sort: "title" %}
+{% assign category_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category != 'africa' and item.category != 'travel' and item.category != 'coding' and item.category != 'hiatus' and item.category != 'reno' and item.category != 'music'" | sort: "title" %}
 {% if category_pages.size > 0 %}
 {% assign count = category_pages.size %}
 {% assign columns = count %}
@@ -38,7 +38,7 @@ permalink: /blog/
 {% endif %}
 <nav class="blog-categories" aria-label="Categories">
   <table>
-    <caption>Travel</caption>
+    <caption>Travel By Country</caption>
     {% for row_page in category_pages limit: rows %}
       {% assign row = forloop.index0 %}
       <tr>
@@ -62,10 +62,10 @@ permalink: /blog/
       </tr>
     {% endfor %}
     </table>
-  {% assign other_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'coding' or item.category == 'music'" | sort: "title" %}
+  {% assign other_pages = site.pages | where: "layout", "category" | where_exp: "item", "item.category == 'coding' or item.category == 'music' or item.category == 'reno'" | sort: "title" %}
   {% if other_pages.size > 0 %}
   <div class="other-categories">
-    <h2>Other</h2>
+    <h2>Other Blog Categories</h2>
     <ul>
       {% for category_page in other_pages %}
         <li><a href="{{ category_page.url | relative_url }}">{{ category_page.title }}</a></li>
