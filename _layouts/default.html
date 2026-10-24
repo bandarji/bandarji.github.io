@@ -39,8 +39,8 @@
     {% endif %}
 
 </head>
-<body{% if page.theme or page.terminal %} class="{% if page.theme %}theme-{{ page.theme }}{% endif %}{% if page.theme and page.terminal %} {% endif %}{% if page.terminal %}terminal-page{% endif %}"{% endif %}>
-    {% unless page.theme %}
+<body class="{% if page.theme %}theme-{{ page.theme }} {% endif %}{% if page.terminal %}terminal-page {% endif %}{% if page.tags contains 'home' %}home{% endif %}">
+    {% unless page.theme or page.tags contains 'home' %}
     <div class="terminal-fx" aria-hidden="true">
         <canvas class="terminal-static-noise"></canvas>
     </div>
@@ -65,8 +65,7 @@
             <a href="{{ '/' | relative_url }}">Home</a>
             <div class="site-nav-links">
                 <a href="{{ '/blog/' | relative_url }}">Blog</a>
-                <a href="{{ '/work/' | relative_url }}">Work</a>
-                <a href="{{ '/about/' | relative_url }}">About</a>
+                <a href="{{ '/work/' | relative_url }}">Resume</a>
             </div>
         </div>
     </nav>
@@ -83,11 +82,15 @@
             {% endif %}
         </div>
     </footer>
-    {% unless page.theme %}
+    {% unless page.theme or page.tags contains 'home' %}
     <script src="{{ '/assets/js/terminal-static.js' | relative_url }}"></script>
     {% endunless %}
     {% if page.terminal %}
     <script src="{{ '/assets/js/serial-terminal.js' | relative_url }}"></script>
+    {% endif %}
+    {% if page.tags contains 'home' %}
+    <script src="{{ '/assets/js/home-commands.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/home-terminal.js' | relative_url }}"></script>
     {% endif %}
 </body>
 </html>
