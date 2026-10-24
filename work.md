@@ -14,15 +14,15 @@ $ cat resume.txt
 
 **Sean Jain Ellis**
 
-**Site Reliability Engineering - Infrastructure - Distributed Systems**
+## ENGINEERING LEADERSHIP - DEVELOPMENT - INFRASTRUCTURE - DISTRIBUTED SYSTEMS
 
-Principal engineer with 30+ years of experience architecting and operating
-large-scale, mission-critical infrastructure and distributed systems. Deep
-expertise across networking, systems and software development. Proven
-technical leader with a track record of solving complex infrastructure
-problems and driving engineering excellence across teams.
+Generalist with a breadth of knowlege supporting secure, reliable and scalable
+software deployment operations. Deep technical expertise spanning coding,
+systems and networking. Proven technical leader adept at solving complex
+challenges, driving architectural decisions and elevating operational
+excellence across teams.
 
-### Engineering Highlights
+## Engineering Highlights
 
 - Automated and standardized golden signal alerting at Upstart, improving
 incident detection times
@@ -37,6 +37,22 @@ Victoria National Bank
 Software
 - Unix developer for the hot check management system within CLASS, used by
 Texas district attorneys
+
+## Management Highlights
+
+- Led two SRE teams at Twitter, embedded within real-time storage software
+development groups
+- Managed the platform team for Nova, a cloud-based live 3D rendering SaaS
+startup
+- Established DreamWorks Animation's infrastructure organization in India,
+hiring systems, network and tooling engineers while overseeing a 25,000-server
+data center build
+- Grew MobiTV's systems and networking organization from 3 to 20 engineers and
+established a NOC
+- Co-founded Aloe Software, hiring developers for OnDataSuite, a student
+management SaaS platform
+- Built and led a B2B Internet services organization at Information Alliance,
+hiring engineering staff
 
 ### Upstart
 
