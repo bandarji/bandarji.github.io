@@ -123,14 +123,25 @@ body:not([class*="theme-"]) .site-footer {
 .site-nav {
   background-color: var(--terminal-black);
   padding: 0.5rem 0;
-  text-align: center;
   border-bottom: 1px solid var(--terminal-green);
+}
+
+.site-nav .site-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.site-nav-links {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 
 .site-nav a {
   color: var(--terminal-white) !important;
   text-decoration: none;
-  margin: 0 1rem;
+  margin: 0;
   font-weight: bold;
   text-transform: uppercase;
   font-size: 0.8rem;
@@ -520,6 +531,79 @@ body:not([class*="theme-"]) .site-footer {
 .post-content.work-resume th:last-child {
   text-align: right;
   white-space: nowrap;
+}
+
+/* Category index on the blog page */
+.blog-categories {
+  margin: 1rem 0 2rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 6px double var(--terminal-green-bright);
+  overflow-x: auto;
+}
+
+.blog-categories table {
+  border: none;
+  border-collapse: collapse;
+  width: auto;
+  margin: 0;
+}
+
+.blog-categories caption,
+.blog-categories .other-categories h2 {
+  caption-side: top;
+  text-align: left;
+  color: var(--terminal-green-bright);
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 0 0 0.45rem 0;
+}
+
+.blog-categories .other-categories {
+  margin-top: 0.85rem;
+}
+
+.blog-categories .other-categories h2 {
+  margin: 0;
+}
+
+.blog-categories .other-categories ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.blog-categories .other-categories li {
+  margin: 0;
+  padding: 0;
+}
+
+.blog-categories td {
+  border: none;
+  background: none;
+  padding: 0 1.75rem 0.1rem 0;
+  text-align: left;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.blog-categories a {
+  display: inline;
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: normal;
+  line-height: 1.45;
+  letter-spacing: normal;
+  text-transform: none;
+  text-decoration: none;
+  text-shadow: none !important;
+}
+
+.blog-categories a:hover {
+  text-decoration: underline;
 }
 
 /* Category badges */
