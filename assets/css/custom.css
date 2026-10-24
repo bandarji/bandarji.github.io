@@ -1167,3 +1167,225 @@ body[class*="theme-"] .post-content code,
 body[class*="theme-"] .post-content pre {
   font-family: 'Fira Mono', 'Courier New', Courier, monospace;
 }
+
+/* Home page, matched to the j/index.html layout */
+body.home {
+  background-color: #000;
+  color: #ffd7af;
+  font-size: 13px;
+}
+
+body.home .terminal-fx {
+  display: none;
+}
+
+body.home .site-nav {
+  background-color: transparent;
+  border-bottom: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+body.home .site-nav .site-content {
+  padding: 0 6px;
+  border-bottom: 1px solid #87ff8755;
+}
+
+body.home .site-nav-links {
+  gap: 0;
+}
+
+body.home .site-nav a,
+body.home .site-nav a:visited,
+body.home .site-nav a:hover {
+  display: inline-block;
+  color: #ffd7af !important;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 0;
+  text-transform: lowercase;
+  text-decoration: none;
+  padding: 14px 13px;
+  margin: 0;
+}
+
+body.home .site-nav > .site-content > a,
+body.home .site-nav > .site-content > a:visited,
+body.home .site-nav > .site-content > a:hover {
+  color: #87ff87 !important;
+}
+
+body.home .site-nav a:hover {
+  background-color: #333;
+  text-decoration: none;
+}
+
+body.home main.site-content {
+  padding: 21px 6px 0;
+}
+
+body.home h1.title {
+  color: #87ff87;
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0;
+  text-transform: none;
+  margin: 0 0 21px;
+}
+
+body.home .logo {
+  position: relative;
+  float: right;
+  clear: both;
+  width: 128px;
+  height: 128px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+body.home .self-portrait {
+  border-radius: 50%;
+  border: 1px solid #87ff8755;
+  background: #000;
+}
+
+body.home p.content {
+  max-width: 620px;
+  line-height: 1.55;
+  margin: 0;
+  color: #ffd7af;
+}
+
+body.home .highlight {
+  color: #87ff87;
+}
+
+body.home #socials {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  clear: both;
+  line-height: 2;
+}
+
+body.home #socials a,
+body.home #socials a:visited,
+body.home #socials a:hover {
+  color: #5fffff !important;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+body.home #socials a:hover {
+  text-decoration: underline;
+}
+
+body.home pre.terminal,
+body.home pre.terminal > code {
+  font-family: "Fira Mono", ui-monospace, monospace;
+}
+
+body.home pre.terminal {
+  padding: 5px;
+  background-color: #111;
+  min-height: 420px;
+  overflow-x: auto;
+  line-height: 15px;
+  margin: 8px 0 0;
+  color: #ffd7af;
+}
+
+body.home pre.terminal.shadow {
+  border: 1px solid #87ff8755;
+  box-shadow: 0 0 200px #87ff8734;
+}
+
+body.home pre.terminal > code {
+  font-size: 13px;
+  white-space: pre-wrap;
+  background: none;
+  border: none;
+  color: inherit;
+  padding: 0;
+}
+
+body.home pre.terminal > code::after {
+  content: "";
+  width: 6px;
+  height: 12px;
+  background: #ffd7af;
+  display: inline-block;
+  animation: cursor-blink 1.5s step-start infinite;
+  vertical-align: -1px;
+  margin-left: 1px;
+}
+
+body.home .no-animation::after {
+  animation: none !important;
+}
+
+@keyframes cursor-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+body.home .prompt { color: #87ff87; }
+body.home .t-green { color: #87ff87; }
+body.home .t-cyan { color: #5fffff; }
+body.home .t-pink { color: #ff87af; }
+body.home .t-peach { color: #ffd7af; }
+body.home .t-dim { color: #666; }
+
+body.home pre.terminal a,
+body.home pre.terminal a:visited,
+body.home pre.terminal a:hover {
+  color: #5fffff !important;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+body.home pre.terminal a:hover {
+  text-decoration: underline;
+}
+
+body.home .site-footer {
+  background-color: transparent;
+  border-top: none;
+  color: #ffd7af;
+  font-size: 12px;
+  padding: 12px 0 28px;
+}
+
+body.home .site-footer .site-content {
+  padding: 0 6px;
+}
+
+body.home .site-footer p {
+  margin: 0.15rem 0;
+}
+
+body.home .site-footer p + p {
+  color: #666;
+}
+
+@media (max-width: 560px) {
+  body.home .site-nav a,
+  body.home .site-nav a:visited,
+  body.home .site-nav a:hover {
+    padding: 12px 8px;
+    font-size: 12px;
+  }
+
+  body.home .logo {
+    width: 72px;
+    height: 72px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body.home pre.terminal > code::after {
+    animation: none;
+  }
+}
