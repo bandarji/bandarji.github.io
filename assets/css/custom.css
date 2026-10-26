@@ -377,6 +377,20 @@ body:not([class*="theme-"]) .site-footer {
   font-size: 0.8rem;
 }
 
+.page-view-counter {
+  margin-top: 0.75rem;
+}
+
+.page-view-counter a,
+.page-view-counter a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page-view-counter a:hover {
+  text-decoration: underline;
+}
+
 /* Post navigation */
 .post-navigation {
   margin-top: 2rem;

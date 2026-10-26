@@ -80,6 +80,17 @@
             {% if site.description %}
             <p>{{ site.description }}</p>
             {% endif %}
+            {% unless page.tags contains 'work' %}
+            <div class="page-view-counter">
+                <div id="sfcem2ba5bc7rm4mqtskq5chm1rlpdbpjg8"></div>
+                <script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=em2ba5bc7rm4mqtskq5chm1rlpdbpjg8&down=async" async></script>
+                <noscript>
+                    <a href="https://www.freecounterstat.com" title="page view counters">
+                        <img src="https://counter6.optistats.ovh/private/freecounterstat.php?c=em2ba5bc7rm4mqtskq5chm1rlpdbpjg8" border="0" title="page view counters" alt="page view counters">
+                    </a>
+                </noscript>
+            </div>
+            {% endunless %}
         </div>
     </footer>
     {% unless page.theme or page.tags contains 'home' %}
