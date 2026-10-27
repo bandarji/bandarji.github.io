@@ -46,14 +46,37 @@
 		tick();
 	}
 
+	function shuffledCommands(avoidFirst) {
+		const order = COMMANDS.slice();
+		for (let i = order.length - 1; i > 0; i -= 1) {
+			const j = Math.floor(Math.random() * (i + 1));
+			const tmp = order[i];
+			order[i] = order[j];
+			order[j] = tmp;
+		}
+		if (avoidFirst && order.length > 1 && order[0] === avoidFirst) {
+			const swap = 1 + Math.floor(Math.random() * (order.length - 1));
+			order[0] = order[swap];
+			order[swap] = avoidFirst;
+		}
+		return order;
+	}
+
+	let queue = shuffledCommands();
+
 	function cycle(index) {
-		const item = COMMANDS[index];
+		const item = queue[index];
 		const next = function () {
 			if (COMMANDS.length < 2) {
 				return;
 			}
 			window.setTimeout(function () {
-				cycle((index + 1) % COMMANDS.length);
+				let nextIndex = index + 1;
+				if (nextIndex >= queue.length) {
+					queue = shuffledCommands(item);
+					nextIndex = 0;
+				}
+				cycle(nextIndex);
 			}, HOLD);
 		};
 		if (reduced) {
