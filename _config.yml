@@ -1,15 +1,18 @@
 # Site configuration
 title: "Sean Jain Ellis"
-subtitle: "Coding :: Music :: Travel"
+subtitle: "Travel :: Coding :: Music"
 description: "You have reached the edge of the Internet."
 github: "https://github.com/bandarji"
+author: "Sean Jain Ellis"
+logo: "https://bandarji.com/images/sjeblog-logo.png"
 
 # Category pages
 permalink: /categories/:category/
 
 # Theme configuration (using custom theme)
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 lsi: false
 safe: true
 incremental: false
