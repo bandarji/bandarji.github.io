@@ -18,13 +18,15 @@ max_width: 1000px
 
 | | |
 |:---|:---|
-| **Linux Geek** | Unix user since 1987, Linux since 1994 |
-| **Network Whisperer** | Worked many protocols from all layers of the OSI model |
-| **Code Writer** | Polyamorous with Go, Python and Rust |
-| **Coffee Drinker** | Hard to start a day without C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> |
-| **World Traveler** | Singing my own "I've been everywhere, man" song |
-| **War Criminal** | I have a long story to tell about buying a house in Hawaii |
+| **Linux Geek** | Unix user since 1987; Linux since 1994 |
+| **Network Whisperer** | Broken something on every layer of the OSI model |
+| **Code Writer** | Polyamorous with Go and Python; sometimes call C and Rust |
+| **Coffee Drinker** | Start every day with C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> |
+| **World Traveler** | Foreign countries visited: 25 and counting |
+| **War Criminal** | Ask me about buying a house in Hawaii |
 | **Monkey King** | Some refer to me as Bandarji, others बंदरों का बादशाह |
+| **Smokey Steward** | Our dog shares his house with me and my wife |
+| **Hindi Student** | आप क्यों हँस रहे हैं। क्या मेरी हिंदी इतनी खराब है। |
 {:.home-links}
 
 <div id="socials">
