@@ -4,7 +4,17 @@ subtitle: "Travel :: Coding :: Music"
 description: "You have reached the edge of the Internet."
 github: "https://github.com/bandarji"
 author: "Sean Jain Ellis"
-logo: "https://bandarji.com/images/sjeblog-logo.png"
+logo: "https://bandarji.com/images/sjeblog-og-image.png"
+image: "https://bandarji.com/images/sjeblog-og-image.png"
+og_image: "https://bandarji.com/images/sjeblog-og-image.png"
+og_title: "Sean Jain Ellis"
+og_description: "Travel :: Coding :: Music"
+og_url: "https://bandarji.github.io/"
+og_type: "website"
+og_locale: "en_US"
+og_site_name: "Sean Jain Ellis"
+og_image_width: 1200
+og_image_height: 630
 
 # Category pages
 permalink: /categories/:category/
