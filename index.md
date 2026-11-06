@@ -22,7 +22,7 @@ max_width: 1000px
 | **Network Whisperer** | Broken something on every layer of the OSI model |
 | **Code Writer** | Polyamorous with Go and Python; sometimes call C and Rust |
 | **Coffee Drinker** | Start every day with C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub> |
-| **World Traveler** | Foreign countries visited: 25 and counting |
+| **World Traveler** | Foreign countries visited: 27 and counting |
 | **War Criminal** | Ask me about buying a house in Hawaii |
 | **Monkey King** | Some refer to me as Bandarji, others बंदरों का बादशाह |
 | **Smokey Steward** | Our dog shares his house with me and my wife |
